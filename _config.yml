@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "梅文杰"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
