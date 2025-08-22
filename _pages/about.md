@@ -23,8 +23,8 @@ News
 ------
 | Paper | Details | Links |
 |-------|---------|-------|
-| ![Paper Thumbnail](./0B7524A2B6FFC176A28482737E2F9DAA.png) | **[JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](https://arxiv.org/abs/xxxx.xxxxx)**<br>Xiaoyong Lu and Songlin Du<br><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> | [Paper](https://arxiv.org/abs/xxxx.xxxxx) • [Code](https://github.com/your-repo-link) • [BibTeX](./JamMa.bib) |
-| ![Paper Thumbnail](./0B7524A2B6FFC176A28482737E2F9DAA.png) | **[JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](https://arxiv.org/abs/xxxx.xxxxx)**<br>Xiaoyong Lu and Songlin Du<br><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> | [Paper](https://arxiv.org/abs/xxxx.xxxxx) • [Code](https://github.com/your-repo-link) • [BibTeX](./JamMa.bib) |
+| ![Paper Thumbnail](./0B7524A2B6FFC176A28482737E2F9DAA.png) | **[xxx](https://arxiv.org/abs/xxxx.xxxxx)**<br>Xiaoyong Lu and Songlin Du<br><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> | [Paper](https://arxiv.org/abs/xxxx.xxxxx) • [Code](https://github.com/your-repo-link) • [BibTeX](./JamMa.bib) |
+| ![Paper Thumbnail](./0B7524A2B6FFC176A28482737E2F9DAA.png) | **[xxx](https://arxiv.org/abs/xxxx.xxxxx)**<br>Xiaoyong Lu and Songlin Du<br><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> | [Paper](https://arxiv.org/abs/xxxx.xxxxx) • [Code](https://github.com/your-repo-link) • [BibTeX](./JamMa.bib) |
 
 
 
