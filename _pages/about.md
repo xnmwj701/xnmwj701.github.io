@@ -9,7 +9,7 @@ redirect_from:
 
 <div align="justify">
 Wenjie Mei was an assistant professor at Southeast University (China). From Jan. 2023 to Jan. 2024, he was a postdoctoral scholar at Vanderbilt University (U.S.). He worked at Inria (France) as a Ph.D. candidate from 2019 to 2022 and obtained a Ph.D. in Computer Science and Automatic Control from the University of Lille (France) in 2022. He received an M.Sc. degree in Information Science from the Nara Institute of Science and Technology (Japan) in 2019. 
-
+</div>
 
 Research Interests
 ======
@@ -48,4 +48,4 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-</div>
+
