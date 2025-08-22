@@ -13,17 +13,15 @@ Wenjie Mei was an assistant professor at Southeast University (China). From Jan.
 <br>
 
 Research Interests
-======
+------
+<div align="justify">
 His research interests primarily focus on the modeling, analysis, and control of complex systems (e.g., data-driven methods, geometric control, system safety), as well as the interdisciplinary integration with artificial intelligence and robotics. It explores problems such as learning, intelligent prediction, and control for practical dynamical systems. The main application scenarios include, for example, robotic motion planning and control, and the learning-based modeling and prediction of power and motor systems.
+</div>
+<br>
 
 Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+------
+
 
 Site-wide configuration
 ------
