@@ -19,8 +19,13 @@ His research interests primarily focus on the modeling, analysis, and control of
 </div>
 
 
-Getting started
+Recent Publication
 ------
+
+| Paper | Details | Links |
+|-------|---------|-------|
+| ![Paper Thumbnail](./0B7524A2B6FFC176A28482737E2F9DAA.png) | **[JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](https://arxiv.org/abs/xxxx.xxxxx)**<br>Xiaoyong Lu and Songlin Du<br><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> | [Paper](https://arxiv.org/abs/xxxx.xxxxx) • [Code](https://) • [Bibtex](https://)
+
 
 
 Site-wide configuration
