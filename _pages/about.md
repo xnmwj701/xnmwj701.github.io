@@ -10,14 +10,14 @@ redirect_from:
 <div align="justify">
 Wenjie Mei was an assistant professor at Southeast University (China). From Jan. 2023 to Jan. 2024, he was a postdoctoral scholar at Vanderbilt University (U.S.). He worked at Inria (France) as a Ph.D. candidate from 2019 to 2022 and obtained a Ph.D. in Computer Science and Automatic Control from the University of Lille (France) in 2022. He received an M.Sc. degree in Information Science from the Nara Institute of Science and Technology (Japan) in 2019. 
 </div>
-<br>
+
 
 Research Interests
 ------
 <div align="justify">
 His research interests primarily focus on the modeling, analysis, and control of complex systems (e.g., data-driven methods, geometric control, system safety), as well as the interdisciplinary integration with artificial intelligence and robotics. It explores problems such as learning, intelligent prediction, and control for practical dynamical systems. The main application scenarios include, for example, robotic motion planning and control, and the learning-based modeling and prediction of power and motor systems.
 </div>
-<br>
+
 
 Getting started
 ------
