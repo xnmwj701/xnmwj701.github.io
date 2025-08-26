@@ -127,27 +127,29 @@ Former Team Members
 
 Admission
 ------
-<div align="justify" style="line-height:1.6; font-family: Arial, sans-serif;">
-  <ol>
-    <li>
-      热烈欢迎有较强科研探索兴趣、自我驱动力的考（保）研、博士生、科研助理/实习生、想了解科研的本科生来信联系
+<div align="justify" style="line-height:1.7; font-family: Arial, sans-serif; font-size: 15px; color:#333;">
+  <ol style="padding-left: 18px;">
+    <li style="margin-bottom: 12px;">
+      热烈欢迎有较强科研探索兴趣和自我驱动力的 <strong>考（保）研学生、博士生、科研助理/实习生、本科科研探索者</strong> 来信联系  
       （<strong style="color:#1a73e8;">邮件：<a href="mailto:mei.wenjie@nju.edu.cn" style="color:#1a73e8; text-decoration:none;">mei.wenjie@nju.edu.cn</a></strong>），
-      一起开拓新边界！请在邮件中附上简历并做简单的自我介绍。
-      <em style="color:#d9534f;"> 具有顶级国际期刊/会议论文、高水平机器人/编程竞赛获奖经历，或具备多年企业科研项目经验者将优先考虑 </em>。
+      一起开拓新边界！请在邮件中附上简历并做简要自我介绍。  
+      <span style="color:#d9534f; font-weight: 500;">具有顶级国际期刊/会议论文、高水平机器人或编程竞赛获奖经历，或具备多年企业科研项目经验者将优先考虑。</span>
+    </li>
+    <li style="margin-bottom: 12px;">
+      <strong>培养模式：</strong> 借鉴欧美科研培养体系，提供全流程科研指导
+      （<em>研究思路设计、理论推导、实验方案建议、论文撰写与修改</em>）。  
+      日常管理宽松，但学术要求严格，注重独立思考与创新。
     </li>
     <li>
-      <strong>培养模式：</strong> 接近欧美的科研培养模式，可提供一线科研指导
-      （idea 设计、理论推导、实验建议、论文修改等）；日常管理宽松，但学术要求严格。
-    </li>
-    <li>
-      <strong>基本要求：<br> 
-      </strong> 具备 <em>深度学习 / 强化学习 / 机器人学习 / 机器人硬件平台搭建 </em> 等相关背景（理论+应用），或数学、非线性控制理论功底深厚（纯理论）；<br>
-      熟悉 <em>AIGC 前沿算法或开源工具</em>，熟练使用 <code>Python</code>、<code>PyTorch</code>、<code>Matlab</code> 等（仅适用于“理论+应用”）；<br>
-      具备发表高水平论文或承担企业级项目的能力；<br>
-     为人正直诚信，能与团队成员和谐共处，严格遵守学术道德规范。
+      <strong>基本要求：</strong><br>
+      • 具备 <em>深度学习 / 强化学习 / 机器人学习 / 机器人硬件平台搭建 </em> 等相关背景（理论+应用），或数学、非线性控制理论功底深厚（纯理论）；<br>
+      • 熟悉 <em>AIGC 前沿算法或开源工具</em>，熟练使用 <code>Python</code>、<code>PyTorch</code>、<code>Matlab</code> 等（仅适用于“理论+应用”）；<br>
+      • 具备发表高水平论文或承担企业级科研项目的能力；<br>
+      • <span style="color:#d9534f; font-weight: 500;">为人正直诚信，善于协作，严格遵守学术道德规范。</span>
     </li>
   </ol>
 </div>
+
 
 
 
