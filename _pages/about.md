@@ -42,8 +42,8 @@ Recent Works
         <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em>
       </td>
       <td>
-        <a href="xxx">📄 Paper</a> ・ 
-        <a href="xxx">💻 Code</a> ・ 
+        <a href="xxx">📄 Paper</a> <br> 
+        <a href="xxx">💻 Code</a> <br>
         <a href="xxx">📑 BibTeX</a>
       </td>
     </tr>
@@ -54,8 +54,8 @@ Recent Works
         <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em>
       </td>
       <td>
-        <a href="xxx">📄 Paper</a> ・ 
-        <a href="xxx">💻 Code</a> ・ 
+        <a href="xxx">📄 Paper</a> <br>  
+        <a href="xxx">💻 Code</a> <br>  
         <a href="xxx">📑 BibTeX</a>
       </td>
     </tr>
