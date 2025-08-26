@@ -24,14 +24,15 @@ Research Interests
 
 Recent Works
 ------
-| Paper | Details | Links |
-|:-----:|---------|-------|
-| <img src="./0B7524A2B6FFC176A28482737E2F9DAA.png" alt="Paper Thumbnail" width="120"/> | **[xxx](https://arxiv.org/abs/xxxx.xxxxx)**  <br> YYY and YYYY  <br> *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025* | [📄 Paper](https://arxiv.org/abs/xxxx.xxxxx) • [💻 Code](https://github.com/your-repo-link) • [📑 BibTeX](./JamMa.bib) |
-| <img src="./0B7524A2B6FFC176A28482737E2F9DAA.png" alt="Paper Thumbnail" width="120"/> | **[xxx](https://arxiv.org/abs/xxxx.xxxxx)**  <br> YYY and YYYY  <br> *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025* | [📄 Paper](https://arxiv.org/abs/xxxx.xxxxx) • [💻 Code](https://github.com/your-repo-link) • [📑 BibTeX](./JamMa.bib) |
+| Paper Thumbnail | Details | Links |
+|-----------------|---------|-------|
+| ![Paper Thumbnail](xxx) | **YYY and YYYY** <br> *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025* | [📄 Paper](xxx) ・ [💻 Code](xxx) ・ [📑 BibTeX](xxx) |
+| ![Paper Thumbnail](xxx) | **YYY and YYYY** <br> *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025* | [📄 Paper](xxx) ・ [💻 Code](xxx) ・ [📑 BibTeX](xxx) |
+
 
 
 Former Members
----
+------
 | 姓名   | 身份               | 时间      | 论文成果                              | 去向                 | 研究方向                                                                 |
 |--------|------------------|----------|---------------------------------------|--------------------|------------------------------------------------------------------------|
 | 郑东哲 | 科研实习生（远程） | 2024至今 | 2篇 NeurIPS、1篇 ICML Spotlight、1篇 JFI | 普林斯顿大学博士生  | 神经ODE动态系统建模与稳定性保证、基于强化学习的受限系统优化、基于纤维束结构的几何控制 |
