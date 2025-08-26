@@ -133,7 +133,7 @@ Admission
       热烈欢迎有较强科研探索兴趣、自我驱动力的考（保）研、博士生、科研助理/实习生、想了解科研的本科生来信联系
       （<strong style="color:#1a73e8;">邮件：<a href="mailto:mei.wenjie@nju.edu.cn" style="color:#1a73e8; text-decoration:none;">mei.wenjie@nju.edu.cn</a></strong>），
       一起开拓新边界！请在邮件中附上简历并做简单的自我介绍，
-      <em style="color:#d9534f;">有Top国际期刊/会议、高水平机器人或编程竞赛获奖者优先考虑</em>。
+      <em style="color:#d9534f;">有Top国际期刊/会议、高水平机器人或编程竞赛获奖者、多年科研项目经验者优先考虑</em>。
     </li>
     <li>
       <strong>培养模式：</strong> 接近欧美的科研培养模式，可提供一线科研指导
