@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 <div align="justify">
 2025年至今，担任南京大学苏州校区机器人与自动化学院助理教授、特聘研究员、独立PI；<br>
 2024年-2025年，担任东南大学讲师，并于此期间多次赴日本广岛大学进行学术访问；<br>
@@ -22,34 +24,7 @@ Research Interests
 </div>
 
 
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    text-align: center;
-    font-family: "Arial", sans-serif;
-  }
-  th {
-    border: 0.5px solid #888;
-    padding: 8px;
-    background-color: #f0f0f0;
-    border-radius: 4px;
-  }
-  td {
-    border: 0.5px solid #ccc;
-    padding: 8px;
-  }
-  tbody tr:nth-child(even) {
-    background-color: #fafafa;
-  }
-  a {
-    text-decoration: none;
-    color: #1a73e8;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
+
 
 Recent Works
 ------
@@ -88,6 +63,9 @@ Recent Works
     </tr>
   </tbody>
 </table>
+
+更多学术发表，点击[谷歌学术]([https://scholar.google.com/citations?user=你的ID](https://scholar.google.com/citations?user=1P8cYogAAAAJ&hl=zh-CN))
+
 
 Former Team Members
 ------
