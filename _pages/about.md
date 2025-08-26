@@ -145,7 +145,7 @@ Admission
       • 具备 <em>深度学习 / 强化学习 / 机器人学习 / 机器人硬件平台搭建 </em> 等相关背景（理论+应用），或数学、非线性控制理论功底深厚（纯理论）；<br>
       • 熟悉 <em>AIGC 前沿算法或开源工具</em>，熟练使用 <code>Python</code>、<code>PyTorch</code>、<code>Matlab</code> 等（仅适用于“理论+应用”）；<br>
       • 具备发表高水平论文或承担企业级科研项目的能力；<br>
-      • <span style="color:#d9534f; font-weight: 500;">为人正直诚信，善于协作，严格遵守学术道德规范。</span>
+      • 为人正直诚信，善于协作，严格遵守学术道德规范。
     </li>
   </ol>
 </div>
