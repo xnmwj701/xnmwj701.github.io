@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 <div align="justify">
-Wenjie Mei was an assistant professor at Southeast University (China). From Jan. 2023 to Jan. 2024, he was a postdoctoral scholar at Vanderbilt University (U.S.). He worked at Inria (France) as a Ph.D. candidate from 2019 to 2022 and obtained a Ph.D. in Computer Science and Automatic Control from the University of Lille (France) in 2022. He received an M.Sc. degree in Information Science from the Nara Institute of Science and Technology (Japan) in 2019. 
+2025年至今，担任南京大学苏州校区机器人与自动化学院助理教授、特聘研究员；<br>
+2024年-2025年，担任东南大学讲师，并于此期间多次赴日本广岛大学进行学术访问；<br>
+2023年-2024年, 在美国范德堡大学从事博士后研究工作；<br>
+2019年-2022年，在法国国家信息与自动化研究所（里尔北欧中心）开展研究工作，并于2022年取得法国里尔大学计算机、自动化博士学位。
 </div>
 
 
