@@ -31,9 +31,9 @@ Recent Works
 <table>
   <thead>
     <tr>
-      <th>Paper Thumbnail</th>
-      <th>Details</th>
-      <th>Links</th>
+      <th>论文缩略图</th>
+      <th>细节</th>
+      <th>链接</th>
     </tr>
   </thead>
   <tbody>
