@@ -19,12 +19,12 @@ His research interests primarily focus on the modeling, analysis, and control of
 </div>
 
 
-News
+Recent Works
 ------
 | Paper | Details | Links |
-|-------|---------|-------|
-| ![Paper Thumbnail](./0B7524A2B6FFC176A28482737E2F9DAA.png) | **[xxx](https://arxiv.org/abs/xxxx.xxxxx)**<br>YYY and YYYY<br><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> | [Paper](https://arxiv.org/abs/xxxx.xxxxx) • [Code](https://github.com/your-repo-link) • [BibTeX](./JamMa.bib) |
-| ![Paper Thumbnail](./0B7524A2B6FFC176A28482737E2F9DAA.png) | **[xxx](https://arxiv.org/abs/xxxx.xxxxx)**<br>YYY and YYYY<br><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> | [Paper](https://arxiv.org/abs/xxxx.xxxxx) • [Code](https://github.com/your-repo-link) • [BibTeX](./JamMa.bib) |
+|:-----:|---------|-------|
+| <img src="./0B7524A2B6FFC176A28482737E2F9DAA.png" alt="Paper Thumbnail" width="120"/> | **[xxx](https://arxiv.org/abs/xxxx.xxxxx)**  <br> YYY and YYYY  <br> *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025* | [📄 Paper](https://arxiv.org/abs/xxxx.xxxxx) • [💻 Code](https://github.com/your-repo-link) • [📑 BibTeX](./JamMa.bib) |
+| <img src="./0B7524A2B6FFC176A28482737E2F9DAA.png" alt="Paper Thumbnail" width="120"/> | **[xxx](https://arxiv.org/abs/xxxx.xxxxx)**  <br> YYY and YYYY  <br> *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025* | [📄 Paper](https://arxiv.org/abs/xxxx.xxxxx) • [💻 Code](https://github.com/your-repo-link) • [📑 BibTeX](./JamMa.bib) |
 
 
 
