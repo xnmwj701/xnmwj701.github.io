@@ -24,8 +24,10 @@ Research Interests
 
 Recent Works
 ------
-<table>
-  <thead>
+<h2>Recent Works</h2>
+
+<table class="table table-bordered table-hover text-center">
+  <thead class="table-light">
     <tr>
       <th>Paper Thumbnail</th>
       <th>Details</th>
@@ -66,8 +68,8 @@ Recent Works
 
 Former Members
 ------
-<table>
-  <thead>
+<table class="table table-bordered table-hover text-center">
+  <thead class="table-light">
     <tr>
       <th>姓名</th>
       <th>身份</th>
