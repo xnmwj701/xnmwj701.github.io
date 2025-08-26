@@ -32,7 +32,7 @@ Recent Works
   <thead>
     <tr>
       <th>论文缩略图</th>
-      <th>细节</th>
+      <th>论文细节 </th>
       <th>链接</th>
     </tr>
   </thead>
@@ -132,7 +132,7 @@ Admission
     <li>
       热烈欢迎有较强科研探索兴趣、自我驱动力的考（保）研、博士生、科研助理/实习生、想了解科研的本科生来信联系
       （<strong style="color:#1a73e8;">邮件：<a href="mailto:mei.wenjie@nju.edu.cn" style="color:#1a73e8; text-decoration:none;">mei.wenjie@nju.edu.cn</a></strong>），
-      一起开拓新边界！请在邮件中附上简历并做简单的自我介绍，
+      一起开拓新边界！请在邮件中附上简历并做简单的自我介绍。
       <em style="color:#d9534f;"> 具有顶级国际期刊/会议论文、高水平机器人/编程竞赛获奖经历，或具备多年企业科研项目经验者将优先考虑 </em>。
     </li>
     <li>
