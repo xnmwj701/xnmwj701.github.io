@@ -18,7 +18,7 @@ redirect_from:
 Research Interests
 ------
 <div align="justify">
-His research interests primarily focus on the modeling, analysis, and control of complex systems (e.g., data-driven methods, geometric control, system safety), as well as the interdisciplinary integration with artificial intelligence and robotics. It explores problems such as learning, intelligent prediction, and control for practical dynamical systems. The main application scenarios include, for example, robotic motion planning and control, and the learning-based modeling and prediction of power and motor systems.
+主要聚焦于复杂系统的建模分析与控制（如数据驱动方法、几何控制、系统安全性等）、人工智能、机器人技术等领域的交叉融合，探索面向实际动态系统的学习、智能预测与控制等问题。主要应用场景包括但不限于机器人运动规划与控制、电力/电机系统的学习建模与预测等。
 </div>
 
 
