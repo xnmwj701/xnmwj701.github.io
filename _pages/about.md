@@ -64,7 +64,7 @@ Recent Works
   </tbody>
 </table>
 
-更多学术发表，点击[谷歌学术]([https://scholar.google.com/citations?user=你的ID](https://scholar.google.com/citations?user=1P8cYogAAAAJ&hl=zh-CN))
+更多学术发表，点击[谷歌学术](https://scholar.google.com/citations?user=1P8cYogAAAAJ&hl=zh-CN)
 
 
 Former Team Members
