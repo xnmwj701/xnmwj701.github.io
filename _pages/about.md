@@ -125,9 +125,11 @@ Former Team Members
 </table>
 
 
-
-
-
+Admission
+------
+<div align="justify">
+热烈欢迎有较强科研探索兴趣、自我驱动力的考（保）研、博士生、科研助理、想了解科研的本科生来信联系（<strong>邮件：mei.wenjie@nju.edu.cn</strong>），一起开拓新边界！请在邮件附上简历并做简单的自我介绍，有Top期刊、高水平机器人/编程竞赛获奖者优先考虑。
+</div>
 
 
 
