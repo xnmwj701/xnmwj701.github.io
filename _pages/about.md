@@ -24,8 +24,6 @@ Research Interests
 
 Recent Works
 ------
-<h2>Recent Works</h2>
-
 <table class="table table-bordered table-hover text-center">
   <thead class="table-light">
     <tr>
@@ -85,7 +83,7 @@ Former Team Members
       <td>科研实习生（远程）</td>
       <td>2024至今</td>
       <td>2篇 NeurIPS、1篇 ICML Spotlight、1篇 JFI</td>
-      <td>普林斯顿大学博士生</td>
+      <td>普林斯顿大学，<br> 博士生</td>
       <td>神经ODE动态系统建模与稳定性保证、基于强化学习的受限系统优化、基于纤维束结构的几何控制</td>
     </tr>
     <tr>
@@ -93,7 +91,7 @@ Former Team Members
       <td>博士生（共同指导）</td>
       <td>2024至今</td>
       <td>1篇 IEEE TCAS II、1篇 IEEE T-ASE、1篇 ICCAR 2025</td>
-      <td>新加坡国立大学联合培养</td>
+      <td>新加坡国立大学，联合培养博士生 </td>
       <td>非线性系统识别、无传感器控制、模型预测控制及在运动驱动系统中的应用</td>
     </tr>
     <tr>
@@ -101,7 +99,7 @@ Former Team Members
       <td>博士生（共同指导）</td>
       <td>2024至今</td>
       <td>1篇 IEEE T-ASE、1篇 IROS 2025</td>
-      <td>北京中关村学院在读</td>
+      <td>北京中关村学院，联合培养博士生 </td>
       <td>基于控制理论和深度学习的系统识别及其在电力系统和机器人动力学中的应用</td>
     </tr>
     <tr>
@@ -109,7 +107,7 @@ Former Team Members
       <td>硕士生（共同指导）</td>
       <td>2024至今</td>
       <td>1篇 IEEE TCAS II、1篇 ICCAR 2025</td>
-      <td>兰州理工大学在读</td>
+      <td>兰州理工大学，<br> 硕士生 </td>
       <td>各类连续时间神经网络及其在机电系统中的应用</td>
     </tr>
     <tr>
@@ -117,7 +115,7 @@ Former Team Members
       <td>硕士生</td>
       <td>2024至今</td>
       <td>/</td>
-      <td>东南大学在读</td>
+      <td>东南大学，<br> 硕士生 </td>
       <td>基于连续时间神经网络的路径规划及其在机器人和自动驾驶汽车中的应用</td>
     </tr>
   </tbody>
