@@ -30,6 +30,18 @@ Recent Works
 | <img src="./0B7524A2B6FFC176A28482737E2F9DAA.png" alt="Paper Thumbnail" width="120"/> | **[xxx](https://arxiv.org/abs/xxxx.xxxxx)**  <br> YYY and YYYY  <br> *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025* | [📄 Paper](https://arxiv.org/abs/xxxx.xxxxx) • [💻 Code](https://github.com/your-repo-link) • [📑 BibTeX](./JamMa.bib) |
 
 
+Former Members
+---
+| 姓名     | 身份             | 时间      | 论文成果                                                                 | 去向      | 研究方向                                                                 |
+|----------|----------------|----------|--------------------------------------------------------------------------|----------------|------------------------------------------------------------------------|
+| 郑东哲 | 科研实习生（远程） | 2024至今 | 2篇 NeurIPS、1篇ICML Spotlight、1篇JFI | 普林斯顿大学博士生 | 神经ODE的动态系统建模和稳定性保证、基于强化学习的受限系统优化、基于纤维束结构的几何控制 |
+| 余轲     | 博士生（共同指导） | 2024至今     | 1篇IEEE TCAS II、1篇IEEE T-ASE、1篇ICCAR 2025 | 新加坡国立大学联合培养 | 非线性系统识别、无传感器控制、模型预测控制以及在运动驱动系统中的应用 | 
+| 李兆羿   | 博士生（共同指导） | 2024至今     | 1篇IEEE T-ASE、1篇IROS 2025 | 北京中关村学院在读 |  基于控制理论和深度学习的系统识别，及其在电力系统和机器人动力学中的应用 | 
+| 王逍睿   | 硕士生（共同指导） | 2024至今    | 1篇IEEE TCAS II、1篇ICCAR 2025 | 兰州理工大学在读 |  各类连续时间神经网络及其在机电系统的应用 | 
+| 宋树根   | 硕士生 | 2024至今    | / | 东南大学在读 |  基于连续时间神经网络的路径规划，及其在机器人和自动驾驶汽车中的应用 | 
+
+
+
 
 
 
