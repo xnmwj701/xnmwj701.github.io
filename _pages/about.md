@@ -46,7 +46,7 @@ Recent Works
       </td>
       <td>
        <a href="https://arxiv.org/pdf/2505.19521" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
-       <a href="https://github.com/ContinuumCoder/Measurement-Induced-Bundle-for-Learning-Dynamics/" target="_blank" style="color:#1a73e8; text-decoration:underline;">💻 Code</a> <br>
+       <a href="https://github.com/ContinuumCoder/Measurement-Induced-Bundle-for-Learning-Dynamics/" target="_blank" style="color:#FF0000; text-decoration:underline;">💻 Code</a> <br>
        <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:8ExC1i3B-UgJ:scholar.google.com/&output=citation&scisdr=CgJIhpi7ENTVnW93eqk:AAZF9b8AAAAAaK5xYqlF1HYizgJeygk9jcc3HEU&scisig=AAZF9b8AAAAAaK5xmmSOiCOZlrPllV8qbsjnwQ&scisf=4&ct=citation&cd=-1&hl=en" target="_blank" style="color:#1a73e8; text-decoration:underline;">📑 BibTeX</a>
       </td>
     </tr>
