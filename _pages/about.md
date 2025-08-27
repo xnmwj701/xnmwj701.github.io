@@ -53,8 +53,9 @@ Recent Works
     <tr>
       <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
       <td>
-        <strong>YYY and YYYY</strong><br>
-        <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em>
+          Wenjie Mei, Dongzhe Zheng, Shihua Li<br>
+        <strong> Controlsynth neural ODEs: Modeling dynamical systems with guaranteed convergence </strong><br>
+        <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2024
       </td>
       <td>
         <a href="xxx">📄 Paper</a> <br>  
