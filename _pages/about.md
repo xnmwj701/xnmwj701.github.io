@@ -63,6 +63,32 @@ Recent Works
         <a href="xxx">📑 BibTeX</a>
       </td>
     </tr>
+     <tr>
+      <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
+      <td>
+          Wenjie Mei, Dongzhe Zheng, Shihua Li<br>
+        <strong> Controlsynth neural ODEs: Modeling dynamical systems with guaranteed convergence </strong><br>
+        <em style="color:blue;"> Advances in Neural Information Processing Systems (NeurIPS) </em>, 2024
+      </td>
+      <td>
+        <a href="xxx">📄 Paper</a> <br>  
+        <a href="xxx">💻 Code</a> <br>  
+        <a href="xxx">📑 BibTeX</a>
+      </td>
+    </tr>
+     <tr>
+      <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
+      <td>
+          Wenjie Mei, Dongzhe Zheng, Shihua Li<br>
+        <strong> Controlsynth neural ODEs: Modeling dynamical systems with guaranteed convergence </strong><br>
+        <em style="color:blue;"> Advances in Neural Information Processing Systems (NeurIPS) </em>, 2024
+      </td>
+      <td>
+        <a href="xxx">📄 Paper</a> <br>  
+        <a href="xxx">💻 Code</a> <br>  
+        <a href="xxx">📑 BibTeX</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
