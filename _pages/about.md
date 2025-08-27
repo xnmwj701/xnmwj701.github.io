@@ -163,16 +163,11 @@ Miscellaneous
     <li> <strong>团队最新研究进展：</strong><br> 
        - 点击查看（英文）：<a href="https://sites.google.com/site/wenjiewind" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Site]</a>
     </li> 
+     <li> <strong>访问统计（2025.9起）：</strong><br> 
+      <a href="https://info.flagcounter.com/FqRa"><img src="https://s01.flagcounter.com/map/FqRa/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+    </li> 
   </ol> 
 </div>
 
 
 
-
-
-
-
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
