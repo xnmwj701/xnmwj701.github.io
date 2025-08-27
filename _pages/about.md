@@ -55,7 +55,7 @@ Recent Works
       <td>
           Wenjie Mei, Dongzhe Zheng, Shihua Li<br>
         <strong> Controlsynth neural ODEs: Modeling dynamical systems with guaranteed convergence </strong><br>
-        <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2024
+        <em style="color:blue;"> Advances in Neural Information Processing Systems (NeurIPS) </em>, 2024
       </td>
       <td>
         <a href="xxx">📄 Paper</a> <br>  
