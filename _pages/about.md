@@ -40,8 +40,9 @@ Recent Works
     <tr>
       <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
       <td>
-        <strong>YYY and YYYY</strong><br>
-        <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em>
+        Dongzhe Zheng, Wenjie Mei<br>
+        <strong> Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures </strong><br>
+       <em style="color:blue;">International Conference on Machine Learning (ICML), 2025</em>
       </td>
       <td>
         <a href="xxx">📄 Paper</a> <br> 
