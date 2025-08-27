@@ -127,42 +127,41 @@ Former Team Members
 
 Admission
 ------
-<div align="justify" style="line-height:1.7; font-family: Arial, sans-serif; font-size: 15px; color:#333;">
-  <ol style="padding-left: 18px;">
-    <li style="margin-bottom: 12px;">
-      热烈欢迎有较强科研探索兴趣和自我驱动力的 <strong>考（保）研学生、博士生、科研助理/实习生、本科科研探索者</strong> 来信联系  
-      （<strong style="color:#1a73e8;">邮箱：<a href="mailto:mei.wenjie@nju.edu.cn" style="color:#1a73e8; text-decoration:none;">mei.wenjie@nju.edu.cn</a></strong>），
-      一起开拓新边界！请在邮件中附上简历并做简要自我介绍。  
-      <span style="color:#d9534f; font-weight: 500;">具有顶级国际期刊/会议论文、高水平机器人或编程竞赛获奖经历，或具备多年企业科研项目经验者将优先考虑。</span>
-    </li>
-    <li style="margin-bottom: 12px;">
-      <strong>培养模式：</strong> 借鉴欧美科研培养体系，提供全流程科研指导
-      （<em>研究思路设计、理论推导、实验方案建议、论文撰写与修改等 </em>）。  
-      日常管理宽松，但学术要求严格，注重独立思考与创新。
-    </li>
-    <li>
-      <strong>基本要求：</strong><br>
-      • 具备 <em>深度学习 / 强化学习 / 机器人学习 / 机器人硬件平台搭建 </em> 等相关背景（理论+应用），或数学、非线性控制理论功底深厚（纯理论）；<br>
-      • 熟悉 <em>AIGC 前沿算法或开源工具</em>，熟练使用 <code>Python</code>、<code>PyTorch</code>、<code>Matlab</code> 等（仅适用于“理论+应用”）；<br>
-      • 具备发表高水平论文或承担企业级科研项目的能力；<br>
-      • 为人正直诚信，善于协作，严格遵守学术道德规范。
-    </li>
-  </ol>
-</div>
+热烈欢迎有较强科研探索兴趣和自我驱动力的 **考（保）研学生、博士生、科研助理/实习生、本科科研探索者** 来信联系  
+（**邮箱：[mei.wenjie@nju.edu.cn](mailto:mei.wenjie@nju.edu.cn)**），一起开拓新边界！  
+请在邮件中附上简历并做简要自我介绍。  
+<span style="color:#d9534f; font-weight: 500;">具有顶级国际期刊/会议论文、高水平机器人或编程竞赛获奖经历，或具备多年企业科研项目经验者将优先考虑。</span>
 
+### 培养模式
+借鉴欧美科研培养体系，提供全流程科研指导  
+（*研究思路设计、理论推导、实验方案建议、论文撰写与修改等*）。  
+日常管理宽松，但学术要求严格，注重独立思考与创新。
 
+### 基本要求
+- 具备 *深度学习 / 强化学习 / 机器人学习 / 机器人硬件平台搭建* 等相关背景（理论+应用），或数学、非线性控制理论功底深厚（纯理论）  
+- 熟悉 *AIGC 前沿算法或开源工具*，熟练使用 `Python`、`PyTorch`、`Matlab` 等（仅适用于“理论+应用”）  
+- 具备发表高水平论文或承担企业级科研项目的能力  
+- 为人正直诚信，善于协作，严格遵守学术道德规范  
 
+---
 
 Miscellaneous
 ------
-1. **团队合作与支持**  
-   本团队与法国 Inria、美国 Vanderbilt University、英国 UCL、日本立命馆大学、日本广岛大学等国际一流研究团队建立了长期合作关系，支持优秀科研助理/实习生、硕士生、博士生等发展：
-   - 发表高水平国际期刊和会议论文（如 IEEE Transactions, NeurIPS, ICML 等）  
-   - 推荐国/境外读博、博后及教职机会  
-   - 国/境外高水平大学联合培养
+### 团队合作与支持
+本团队与以下国际一流研究机构建立了长期合作关系：  
+法国 Inria、美国 Vanderbilt University、英国 UCL、日本立命馆大学、日本广岛大学。  
+支持优秀科研助理/实习生、硕士生、博士生等发展机会，包括：  
+- **发表高水平论文**：国际期刊和顶级会议（如 IEEE Transactions, NeurIPS, ICML 等）  
+- **升学与职业推荐**：国/境外读博、博后及教职机会  
+- **联合培养**：国/境外高水平大学联合培养项目  
 
-2. **最新研究进展**  
-   点击查看（英文）：[Google Site](https://sites.google.com/site/wenjiewind)
+### 科研助理/实习附加要求
+- 超过 18 个月的科研助理或实习，有 **2-3 个月的试用期**
+
+### 最新研究进展
+- 点击查看（英文）：[Google Site](https://sites.google.com/site/wenjiewind)
+
+
 
 
 
