@@ -160,7 +160,7 @@ Miscellaneous
   </li> 
     <li style="margin-bottom: 12px;"> <strong>科研助理/实习附加要求：</strong><br>   - 超过 18 个月的科研助理或实习，有<strong>2-3 个月的试用期</strong>
     </li> 
-    <li> <strong>最新研究进展：</strong><br> 
+    <li> <strong>团队最新研究进展：</strong><br> 
        - 点击查看（英文）：<a href="https://sites.google.com/site/wenjiewind" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Site]</a>
     </li> 
   </ol> 
