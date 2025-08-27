@@ -76,7 +76,7 @@ Former Team Members
       <th>身份</th>
       <th>时间</th>
       <th>论文成果</th>
-      <th>去向</th>
+      <th>去向/现状</th>
       <th>研究方向</th>
     </tr>
   </thead>
@@ -99,10 +99,10 @@ Former Team Members
     </tr>
     <tr>
       <td>李兆羿</td>
-      <td>博士生（共同指导）</td>
+      <td>博士生（副导师）</td>
       <td>2024至今</td>
       <td>1篇 IEEE T-ASE、1篇 IROS 2025</td>
-      <td>北京中关村学院，联合培养博士生 </td>
+      <td>北京中关村学院（31所双一流高校共建），联合培养博士生 </td>
       <td>基于控制理论和深度学习的系统识别及其在电力系统和机器人动力学中的应用</td>
     </tr>
     <tr>
