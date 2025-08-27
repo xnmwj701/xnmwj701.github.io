@@ -64,7 +64,8 @@ Recent Works
   </tbody>
 </table>
 
-更多研究工作，点击[Google Scholar](https://scholar.google.com/citations?user=1P8cYogAAAAJ&hl=zh-CN)
+更多研究工作，点击 <a href="https://scholar.google.com/citations?user=1P8cYogAAAAJ&hl=zh-CN" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Scholar]</a>
+
 
 
 Former Team Members
@@ -160,7 +161,7 @@ Miscellaneous
     <li style="margin-bottom: 12px;"> <strong>科研助理/实习附加要求：</strong><br>   - 超过 18 个月的科研助理或实习，有<strong>2-3 个月的试用期</strong>
     </li> 
     <li> <strong>最新研究进展：</strong><br> 
-       - 点击查看（英文）：<a href="https://sites.google.com/site/wenjiewind" target="_blank" style="color:#1a73e8; text-decoration:none;">Google Site</a>
+       - 点击查看（英文）：<a href="https://sites.google.com/site/wenjiewind" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Site]</a>
     </li> 
   </ol> 
 </div>
