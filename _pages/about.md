@@ -42,7 +42,7 @@ Recent Works
       <td>
         Dongzhe Zheng, Wenjie Mei<br>
         <strong> Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures </strong><br>
-       <em style="color:blue;">International Conference on Machine Learning (ICML) </em>, 2025. <span style="color:#FF0000; font-weight:bold;">Spotlight*</span>
+       <em style="color:blue;">International Conference on Machine Learning (ICML) </em>, 2025. <span style="color:#FF8C00; font-weight:bold;">Spotlight*</span>
       </td>
       <td>
        <a href="https://arxiv.org/pdf/2505.19521" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
