@@ -156,8 +156,8 @@ Admission
 Miscellaneous
 ------
 1. **团队合作与支持**  
-   本团队与法国 Inria、美国 Vanderbilt University、英国 UCL、日本立命馆大学、日本广岛大学等国际一流研究团队建立了长期合作关系，支持优秀科研助理/实习生、硕士生等发展：
-   - 发表国内外高水平国际期刊和会议论文（如 IEEE Transactions, NeurIPS, ICML 等）  
+   本团队与法国 Inria、美国 Vanderbilt University、英国 UCL、日本立命馆大学、日本广岛大学等国际一流研究团队建立了长期合作关系，支持优秀科研助理/实习生、硕士生、博士生等发展：
+   - 发表高水平国际期刊和会议论文（如 IEEE Transactions, NeurIPS, ICML 等）  
    - 推荐国/境外读博、博后及教职机会  
    - 国/境外高水平大学联合培养
 
