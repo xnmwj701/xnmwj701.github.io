@@ -45,8 +45,8 @@ Recent Works
        <em style="color:blue;">International Conference on Machine Learning (ICML)</em>, 2025
       </td>
       <td>
-        <a href="xxx">📄 Paper</a> <br> 
-        <a href="xxx">💻 Code</a> <br>  
+        <a href="https://arxiv.org/pdf/2505.19521" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
+       <a href="https://github.com/ContinuumCoder/Measurement-Induced-Bundle-for-Learning-Dynamics/" target="_blank" style="color:#1a73e8; text-decoration:underline;">💻 Code</a> <br>
         <a href="xxx">📑 BibTeX</a>
       </td>
     </tr>
