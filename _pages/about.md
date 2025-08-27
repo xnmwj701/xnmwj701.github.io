@@ -64,7 +64,7 @@ Recent Works
   </tbody>
 </table>
 
-更多研究工作，点击[谷歌学术](https://scholar.google.com/citations?user=1P8cYogAAAAJ&hl=zh-CN)
+更多研究工作，点击[Google Scholar](https://scholar.google.com/citations?user=1P8cYogAAAAJ&hl=zh-CN)
 
 
 Former Team Members
@@ -153,12 +153,19 @@ Admission
 
 
 
-
-
-
-
-For more info
+Miscellaneous
 ------
+1. **团队合作与支持**  
+   本团队与法国 Inria、美国 Vanderbilt University、英国 UCL、日本立命馆大学、日本广岛大学等国际一流研究团队建立了长期合作关系，支持优秀科研助理/实习生、硕士生等发展：
+   - 发表国内外高水平国际期刊和会议论文（如 IEEE Transactions, NeurIPS, ICML 等）  
+   - 推荐国/境外读博、博后及教职机会  
+   - 国/境外高水平大学联合培养
+
+2. **最新研究进展**  
+   点击查看（英文）：[Google Site](https://sites.google.com/site/wenjiewind)
+
+
+
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 Example: editing a Markdown file for a talk
