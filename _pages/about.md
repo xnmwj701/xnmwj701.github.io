@@ -66,13 +66,12 @@ Recent Works
      <tr>
       <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
       <td>
-          Wenjie Mei, Dongzhe Zheng, Shihua Li<br>
-        <strong> Controlsynth neural ODEs: Modeling dynamical systems with guaranteed convergence </strong><br>
-        <em style="color:blue;"> Advances in Neural Information Processing Systems (NeurIPS) </em>, 2024
+          Wenjie Mei, Denis Efimov, Rosane Ushirobira, Emilia Fridman <br>
+        <strong> On delay-dependent conditions of ISS for generalized Persidskii systems </strong><br>
+        <em style="color:blue;"> IEEE Transactions on Automatic Control </em>, 2023
       </td>
       <td>
-        <a href="xxx">📄 Paper</a> <br>  
-        <a href="xxx">💻 Code</a> <br>  
+        <a href="https://inria.hal.science/hal-03749191/file/journal_time_delay_Pers_systems.pdf" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
         <a href="xxx">📑 BibTeX</a>
       </td>
     </tr>
@@ -84,8 +83,7 @@ Recent Works
         <em style="color:blue;"> IEEE Transactions on Automatic Control </em>, 2021
       </td>
       <td>
-        <a href="xxx">📄 Paper</a> <br>  
-        <a href="xxx">💻 Code</a> <br>  
+        <a href="https://inria.hal.science/hal-03384183/document" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
         <a href="xxx">📑 BibTeX</a>
       </td>
     </tr>
