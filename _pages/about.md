@@ -134,7 +134,7 @@ Former Team Members
       <td>科研实习生（远程）</td>
       <td>2024至今</td>
       <td>2篇 NeurIPS、1篇 ICML Spotlight、1篇 JFI</td>
-      <td>普林斯顿大学，博士生</td>
+      <td>普林斯顿大学（美国Top 5），博士生</td>
       <td>神经ODE动态系统建模与稳定性保证、基于强化学习的受限系统优化、基于纤维束结构的几何控制</td>
     </tr>
     <tr>
