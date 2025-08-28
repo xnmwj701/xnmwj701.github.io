@@ -72,7 +72,7 @@ Recent Works
       </td>
       <td>
         <a href="https://inria.hal.science/hal-03749191/file/journal_time_delay_Pers_systems.pdf" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
-        <a href="xxx">📑 BibTeX</a>
+        <a href="files/bibtex3.bib" download>📑 BibTeX</a>
       </td>
     </tr>
      <tr>
@@ -84,7 +84,7 @@ Recent Works
       </td>
       <td>
         <a href="https://inria.hal.science/hal-03384183/document" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
-        <a href="xxx">📑 BibTeX</a>
+        <a href="files/bibtex4.bib" download>📑 BibTeX</a>
       </td>
     </tr>
      <tr>
@@ -96,7 +96,7 @@ Recent Works
       </td>
       <td>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0005109822002643" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
-        <a href="xxx">📑 BibTeX</a>
+        <a href="files/bibtex5.bib" download>📑 BibTeX</a>
       </td>
     </tr>
   </tbody>
