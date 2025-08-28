@@ -38,7 +38,7 @@ Recent Works
   </thead>
   <tbody>
     <tr>
-      <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
+      <td><img src="/images/editing-talk.png" alt="Paper Thumbnail" width="120"></td>
       <td>
         Dongzhe Zheng, Wenjie Mei<br>
         <strong> Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures </strong><br>
@@ -51,7 +51,7 @@ Recent Works
       </td>
     </tr>
     <tr>
-      <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
+      <td><img src="/images/editing-talk.png" alt="Paper Thumbnail" width="120"></td>
       <td>
           Wenjie Mei, Dongzhe Zheng, Shihua Li<br>
         <strong> Controlsynth neural ODEs: Modeling dynamical systems with guaranteed convergence </strong><br>
@@ -64,7 +64,7 @@ Recent Works
       </td>
     </tr>
      <tr>
-      <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
+      <td><img src="/images/editing-talk.png" alt="Paper Thumbnail" width="120"></td>
       <td>
           Wenjie Mei, Denis Efimov, Rosane Ushirobira, Emilia Fridman <br>
         <strong> On delay-dependent conditions of ISS for generalized Persidskii systems </strong><br>
@@ -76,7 +76,7 @@ Recent Works
       </td>
     </tr>
      <tr>
-      <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
+      <td><img src="/images/editing-talk.png" alt="Paper Thumbnail" width="120"></td>
       <td>
           Wenjie Mei, Denis Efimov, Rosane Ushirobira <br>
         <strong> On input-to-output stability and robust synchronization of generalized Persidskii systems </strong><br>
@@ -88,7 +88,7 @@ Recent Works
       </td>
     </tr>
      <tr>
-      <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
+      <td><img src="/images/editing-talk.png" alt="Paper Thumbnail" width="120"></td>
       <td>
           Wenjie Mei, Rosane Ushirobira, Denis Efimov  <br>
         <strong> On nonlinear robust state estimation for generalized Persidskii systems </strong><br>
