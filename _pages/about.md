@@ -58,8 +58,8 @@ Recent Works
         <em style="color:blue;"> Advances in Neural Information Processing Systems (NeurIPS) </em>, 2024
       </td>
       <td>
-        <a href="xxx">📄 Paper</a> <br>  
-        <a href="xxx">💻 Code</a> <br>  
+         <a href="[https://arxiv.org/pdf/2505.19521](https://proceedings.neurips.cc/paper_files/paper/2024/hash/b3b0ea507520e3db70f7219b59fd5fd9-Abstract-Conference.html)" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
+        <a href="https://github.com/ContinuumCoder/ControlSynth-Neural-ODE" target="_blank" style="color:#1a73e8; text-decoration:underline;">💻 Code</a> <br>
         <a href="xxx">📑 BibTeX</a>
       </td>
     </tr>
