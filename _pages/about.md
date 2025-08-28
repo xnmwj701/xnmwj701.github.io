@@ -79,9 +79,9 @@ Recent Works
      <tr>
       <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
       <td>
-          Wenjie Mei, Dongzhe Zheng, Shihua Li<br>
-        <strong> Controlsynth neural ODEs: Modeling dynamical systems with guaranteed convergence </strong><br>
-        <em style="color:blue;"> Advances in Neural Information Processing Systems (NeurIPS) </em>, 2024
+          Wenjie Mei, Denis Efimov, Rosane Ushirobira <br>
+        <strong> On input-to-output stability and robust synchronization of generalized Persidskii systems </strong><br>
+        <em style="color:blue;"> IEEE Transactions on Automatic Control </em>, 2021
       </td>
       <td>
         <a href="xxx">📄 Paper</a> <br>  
