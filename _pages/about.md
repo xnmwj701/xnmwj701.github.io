@@ -87,6 +87,18 @@ Recent Works
         <a href="xxx">📑 BibTeX</a>
       </td>
     </tr>
+     <tr>
+      <td><img src="xxx" alt="Paper Thumbnail" width="120"></td>
+      <td>
+          Wenjie Mei, Rosane Ushirobira, Denis Efimov  <br>
+        <strong> On nonlinear robust state estimation for generalized Persidskii systems </strong><br>
+        <em style="color:blue;"> Automatica </em>, 2022
+      </td>
+      <td>
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0005109822002643" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
+        <a href="xxx">📑 BibTeX</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
