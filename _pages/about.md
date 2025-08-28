@@ -208,7 +208,3 @@ Miscellaneous
   </ol> 
 </div>
 
-xxx
------- 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
