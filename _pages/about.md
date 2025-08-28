@@ -60,7 +60,7 @@ Recent Works
       <td>
          <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/b3b0ea507520e3db70f7219b59fd5fd9-Abstract-Conference.html" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
         <a href="https://github.com/ContinuumCoder/ControlSynth-Neural-ODE" target="_blank" style="color:#1a73e8; text-decoration:underline;">💻 Code</a> <br>
-        <a href="files/bibtex1.bib" download>📑 BibTeX</a>
+        <a href="files/bibtex2.bib" download>📑 BibTeX</a>
       </td>
     </tr>
      <tr>
