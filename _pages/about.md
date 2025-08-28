@@ -102,8 +102,9 @@ Recent Works
   </tbody>
 </table>
 
+<div align="justify">
 近年以第一/通讯作者在IEEE Trans. Automatic Control、Automatica、NeurIPS、ICML等机器学习、自动化等领域的高水平期刊/会议发表论文20余篇，包括1篇入选ICML 2025 Spotlight论文（全球12,107篇投稿论文的前2.6%）。更多研究工作，点击 <a href="https://scholar.google.com/citations?user=1P8cYogAAAAJ&hl=zh-CN" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Scholar]</a>
-
+</div>
 
 
 Former Team Members
