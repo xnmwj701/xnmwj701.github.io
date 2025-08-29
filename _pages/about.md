@@ -11,7 +11,7 @@ redirect_from:
 
 <div align="justify">
 <p style="font-size:16px;">
-2025年至今，担任南京大学苏州校区机器人与自动化学院助理教授、特聘研究员、独立PI；<br>
+2025年至今，担任南京大学苏州校区机器人与自动化学院 助理教授、特聘研究员、博士生导师；<br>
 2024年-2025年，担任东南大学讲师，并于此期间多次赴日本广岛大学进行学术访问；<br>
 2023年-2024年, 在美国范德堡大学从事博士后研究工作；<br>
 2019年-2022年，在法国国家信息与自动化研究所（里尔-北欧中心）开展研究工作，并于2022年取得法国里尔大学计算机、自动化博士学位。
@@ -208,7 +208,7 @@ Miscellaneous
     <li style="margin-bottom: 12px;"> <strong>科研助理/实习附加要求：</strong><br>   - 超过 18 个月的科研助理或实习，有<strong>2-3 个月的试用期</strong>
     </li> 
     <li> <strong>团队最新研究进展：</strong><br> 
-       - 点击查看（英文）：<a href="https://sites.google.com/site/wenjiewind" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Site]</a>
+       - 点击查看（英文，需能访问Google）：<a href="https://sites.google.com/site/wenjiewind" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Site]</a>
     </li> 
      <li> <strong>访问统计（2025.9起）：</strong><br> 
       <a href="https://info.flagcounter.com/FqRa"><img src="https://s01.flagcounter.com/map/FqRa/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
