@@ -59,7 +59,9 @@ Recent Works
       </td>
     </tr>
     <tr>
-      <td><img src="/images/editing-talk.png" alt="Paper Thumbnail" width="120"></td>
+      <td style="vertical-align: middle;">
+        <img src="/images/figure2.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
+      </td> 
       <td>
           Wenjie Mei, Dongzhe Zheng, Shihua Li<br>
         <strong> Controlsynth neural ODEs: Modeling dynamical systems with guaranteed convergence </strong><br>
