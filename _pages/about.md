@@ -74,7 +74,9 @@ Recent Works
       </td>
     </tr>
      <tr>
-      <td><img src="/images/editing-talk.png" alt="Paper Thumbnail" width="120"></td>
+       <td style="vertical-align: middle;">
+        <img src="/images/figure3.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
+      </td>
       <td>
           Wenjie Mei, Denis Efimov, Rosane Ushirobira, Emilia Fridman <br>
         <strong> On delay-dependent conditions of ISS for generalized Persidskii systems </strong><br>
