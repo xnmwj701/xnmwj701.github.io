@@ -88,7 +88,9 @@ Recent Works
       </td>
     </tr>
      <tr>
-      <td><img src="/images/editing-talk.png" alt="Paper Thumbnail" width="120"></td>
+       <td style="vertical-align: middle;">
+        <img src="/images/figure4.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
+      </td>
       <td>
           Wenjie Mei, Denis Efimov, Rosane Ushirobira <br>
         <strong> On input-to-output stability and robust synchronization of generalized Persidskii systems </strong><br>
@@ -100,7 +102,9 @@ Recent Works
       </td>
     </tr>
      <tr>
-      <td><img src="/images/editing-talk.png" alt="Paper Thumbnail" width="120"></td>
+       <td style="vertical-align: middle;">
+        <img src="/images/figure5.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
+      </td>
       <td>
           Wenjie Mei, Rosane Ushirobira, Denis Efimov  <br>
         <strong> On nonlinear robust state estimation for generalized Persidskii systems </strong><br>
