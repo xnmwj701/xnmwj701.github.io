@@ -42,7 +42,9 @@ Recent Works
   </thead>
   <tbody>
     <tr>
-      <td><img src="/images/figure1.png" alt="Paper Thumbnail" width="120"></td>
+      <td style="vertical-align: middle;">
+        <img src="/images/figure1.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
+      </td>
       <td>
         Dongzhe Zheng, Wenjie Mei<br>
         <strong> Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures </strong><br>
