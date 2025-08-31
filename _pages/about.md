@@ -188,7 +188,7 @@ Admission
 <div align="justify" style="line-height:1.7; font-family: Arial, sans-serif; font-size: 15px; color:#333;"> 
   <ol style="padding-left: 18px;"> 
   <li style="margin-bottom: 12px;"> 
-    热烈欢迎有较强科研探索兴趣和自我驱动力的 <strong>考（保）研学生（含申博）、科研助理/实习生、对科研感兴趣的本科生 </strong> 来信联系 （<strong style="color:#1a73e8;">邮箱：<a href="mailto:mei.wenjie@nju.edu.cn" style="color:#1a73e8; text-decoration:none;">mei.wenjie@nju.edu.cn</a></strong>）， 一起开拓新边界！
+    热烈欢迎有较强科研探索兴趣和自我驱动力的 <strong>考研/保研学生、博士研究生申请人、科研助理/实习生，以及想提前进入实验室的本科生 </strong> 来信联系 （<strong style="color:#1a73e8;">邮箱：<a href="mailto:mei.wenjie@nju.edu.cn" style="color:#1a73e8; text-decoration:none;">mei.wenjie@nju.edu.cn</a></strong>）， 一起开拓新边界！
     请在邮件中附上简历并做简要自我介绍。 
     <span style="color:#d9534f; font-weight: 500;">具有Top国际期刊/会议论文、高水平机器人或编程竞赛获奖经历，或具备多年企业科研项目经验者将优先考虑。</span> 
   </li> 
