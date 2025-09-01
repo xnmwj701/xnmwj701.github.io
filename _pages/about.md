@@ -215,7 +215,7 @@ Miscellaneous
     - 推荐国/境外读博、博后及教职机会 <br> 
     - 国/境外高水平大学联合培养 
   </li> 
-    <li style="margin-bottom: 12px;"> <strong>科研助理/实习附加要求：</strong><br>   - 超过 18 个月的科研助理或实习，有<strong>2-3 个月的试用期</strong>
+    <li style="margin-bottom: 12px;"> <strong>科研助理/实习附加要求：</strong><br>   - </strong><br>  短期（科研实习）：<br> 周期不超过 6 个月；</strong><br> 中长期（科研助理）：<br> 通常周期为 6–12 个月，表现优秀者可经协商续约。针对任期超过18个月的科研助理，有2–3个月的试用期。
     </li> 
     <li> <strong>团队最新研究进展：</strong><br> 
        - 点击查看（英文，需能访问Google）：<a href="https://sites.google.com/site/wenjiewind" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Site]</a>
