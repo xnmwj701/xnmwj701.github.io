@@ -211,9 +211,9 @@ Miscellaneous
   <ol style="padding-left: 18px;"> 
   <li style="margin-bottom: 12px;"> 
      <strong>团队合作与支持：</strong><br>  本团队与法国 Inria、美国 Vanderbilt University、英国 UCL、日本立命馆大学、日本广岛大学等国际一流研究团队建立了长期合作关系，支持优秀科研助理/实习生、硕士生、博士生等发展：<br> 
-    - 发表高水平国际期刊和会议论文（如 IEEE Transactions, NeurIPS, ICML 等） <br> 
-    - 推荐国/境外读博、博后及教职机会 <br> 
-    - 国/境外高水平大学联合培养 
+    - 发表高水平国际期刊和会议论文（如IEEE Transactions, NeurIPS, ICML等） <br> 
+    - 推荐国/境外读博、博后机会 <br> 
+    - 国/境外高水平研究团队联合培养 
   </li> 
     <li style="margin-bottom: 12px;"> <strong>科研助理/实习附加要求：</strong><br>   - <strong> 短期（科研实习）：</strong>  周期不超过 6 个月；<strong> 中长期（科研助理）：</strong> 通常周期为6–12个月（有试用期），表现优秀者可经协商续约
     </li> 
