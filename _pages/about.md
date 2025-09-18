@@ -43,7 +43,7 @@ Recent Works
   <tbody>
      <tr>
       <td style="vertical-align: middle;">
-        <img src="/images/figure2.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
+        <img src="/images/figure_nips2025.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
       </td> 
       <td>
            Dongzhe Zheng, Wenjie Mei <br>
@@ -52,7 +52,7 @@ Recent Works
       </td>
       <td>
          <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/b3b0ea507520e3db70f7219b59fd5fd9-Abstract-Conference.html" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
-        <a href="https://github.com/ContinuumCoder/ControlSynth-Neural-ODE" target="_blank" style="color:#1a73e8; text-decoration:underline;">💻 Code</a> <br>
+        <a href="https://anonymous.4open.science/r/MA_MPPI-6555" target="_blank" style="color:#1a73e8; text-decoration:underline;">💻 Code</a> <br>
         <a href="files/bibtex2.bib" download>📑 BibTeX</a>
       </td>
     </tr>
