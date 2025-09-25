@@ -46,7 +46,7 @@ Recent Works
         <img src="/images/figure_nips2025.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
       </td> 
       <td>
-           Dongzhe Zheng, Wenjie Mei <br>
+           Dongzhe Zheng, Wenjie Mei* <br>
         <strong> Memory-Augmented Potential Field Theory: A Framework for Adaptive Control in Non-Convex Domains </strong><br>
         <em style="color:blue;"> Advances in Neural Information Processing Systems (NeurIPS) </em>, 2025
       </td>
@@ -61,7 +61,7 @@ Recent Works
         <img src="/images/figure1.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
       </td>
       <td>
-        Dongzhe Zheng, Wenjie Mei<br>
+        Dongzhe Zheng, Wenjie Mei* <br>
         <strong> Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures </strong><br>
        <em style="color:blue;">International Conference on Machine Learning (ICML) </em>, 2025. <span style="color:#FF8C00; font-weight:bold;">Spotlight*</span>
       </td>
