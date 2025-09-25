@@ -51,7 +51,7 @@ Recent Works
         <em style="color:blue;"> Advances in Neural Information Processing Systems (NeurIPS) </em>, 2025
       </td>
       <td>
-         <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/b3b0ea507520e3db70f7219b59fd5fd9-Abstract-Conference.html" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
+         <a href="https://arxiv.org/abs/2509.19672" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
         <a href="https://anonymous.4open.science/r/MA_MPPI-6555" target="_blank" style="color:#1a73e8; text-decoration:underline;">💻 Code</a> <br>
         <a href="files/bibtex2.bib" download>📑 BibTeX</a>
       </td>
