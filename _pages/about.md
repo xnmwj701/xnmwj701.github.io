@@ -221,10 +221,12 @@ Admission
 
 Laboratory Hardware Platform 
 ------ 
-<p align="center">
-  <img src="/images/robotarm.jpg" width="450" style="display:inline-block;">
-  <img src="/images/mobilerobot.jpg" width="450" style="display:inline-block;">
-</p>
+<div style="text-align: center;">
+  <div style="display: inline-flex; gap: 10px;">
+    <img src="/images/robotarm.jpg" width="450">
+    <img src="/images/mobilerobot.jpg" width="450">
+  </div>
+</div>
 
 
 
