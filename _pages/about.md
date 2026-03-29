@@ -223,8 +223,8 @@ Laboratory Hardware Platform
 ------ 
 <div style="text-align: center;">
   <div style="display: inline-flex; gap: 10px;">
-    <img src="/images/robotarm.jpg" width="450">
-    <img src="/images/mobilerobot.jpg" width="450">
+    <img src="/images/robotarm.jpg" width="380">
+    <img src="/images/mobilerobot.jpg" width="380">
   </div>
 </div>
 
