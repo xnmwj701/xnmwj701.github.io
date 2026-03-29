@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   avatar : "profile"
   name : "梅文杰"
-  bio : "官网图片仅供参考"
+  bio : 
   location : "Suzhou"
   employer : "Nanjing University"
   uri :
