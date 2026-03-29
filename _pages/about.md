@@ -165,7 +165,7 @@ Former Team Members
     <tr>
       <td>余*</td>
       <td>博士生（共同指导）</td>
-      <td>2024至今</td>
+      <td>2024至2025</td>
       <td>1篇 IEEE TCAS II、1篇 IEEE T-ASE、1篇 ICCAR 2025</td>
       <td>新加坡国立大学，联合培养博士生 </td>
       <td>非线性系统识别、无传感器控制、模型预测控制及在运动驱动系统中的应用</td>
@@ -173,7 +173,7 @@ Former Team Members
     <tr>
       <td>李**</td>
       <td>博士生（副导师）</td>
-      <td>2024至今</td>
+      <td>2024至2025</td>
       <td>1篇 IEEE T-ASE、1篇 IROS 2025</td>
       <td>北京中关村学院（31所双一流高校共建），联合培养博士生 </td>
       <td>基于控制理论和深度学习的系统识别及其在电力系统和机器人动力学中的应用</td>
