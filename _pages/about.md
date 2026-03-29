@@ -155,7 +155,7 @@ Former Team Members
   </thead>
   <tbody>
     <tr>
-      <td>郑东哲</td>
+      <td>郑**</td>
       <td>科研助理（远程）</td>
       <td>2024至今</td>
       <td>2篇 NeurIPS、1篇 ICML Spotlight、1篇 JFI</td>
@@ -163,7 +163,7 @@ Former Team Members
       <td>神经ODE动态系统建模与稳定性保证、基于强化学习的受限系统优化、基于纤维束结构的几何控制</td>
     </tr>
     <tr>
-      <td>余轲</td>
+      <td>余*</td>
       <td>博士生（共同指导）</td>
       <td>2024至今</td>
       <td>1篇 IEEE TCAS II、1篇 IEEE T-ASE、1篇 ICCAR 2025</td>
@@ -171,7 +171,7 @@ Former Team Members
       <td>非线性系统识别、无传感器控制、模型预测控制及在运动驱动系统中的应用</td>
     </tr>
     <tr>
-      <td>李兆羿</td>
+      <td>李**</td>
       <td>博士生（副导师）</td>
       <td>2024至今</td>
       <td>1篇 IEEE T-ASE、1篇 IROS 2025</td>
@@ -179,7 +179,7 @@ Former Team Members
       <td>基于控制理论和深度学习的系统识别及其在电力系统和机器人动力学中的应用</td>
     </tr>
     <tr>
-      <td>王逍睿</td>
+      <td>王**</td>
       <td>硕士生（共同指导）</td>
       <td>2024至今</td>
       <td>1篇 IEEE TCAS II、1篇 ICCAR 2025</td>
@@ -187,7 +187,7 @@ Former Team Members
       <td>各类连续时间神经网络及其在机电系统中的应用</td>
     </tr>
     <tr>
-      <td>宋树根</td>
+      <td>宋**</td>
       <td>硕士生</td>
       <td>2024至今</td>
       <td> </td>
@@ -219,6 +219,18 @@ Admission
 </div>
 
 
+Platform 
+------ 
+
+<td style="vertical-align: middle;">
+        <img src="/images/figure2.png" alt="Paper Thumbnail" width="500" style="max-height: 90%; vertical-align: middle;">
+      </td> 
+
+
+
+
+
+      
 
 Miscellaneous 
 ------ 
