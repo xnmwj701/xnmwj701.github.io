@@ -221,10 +221,10 @@ Admission
 
 Laboratory Hardware Platform 
 ------ 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 10px;">
         <img src="/images/robotarm.jpg" alt="Paper Thumbnail" width="450" style="max-height: 90%; vertical-align: middle;">
    <img src="/images/mobilerobot.jpg" alt="Paper Thumbnail" width="450" style="max-height: 90%; vertical-align: middle;">
-</p>
+</div>
 
 
 
