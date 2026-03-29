@@ -219,7 +219,7 @@ Admission
 </div>
 
 
-Platform 
+Laboratory Hardware Platform 
 ------ 
 <p align="center">
         <img src="/images/robotarm.jpg" alt="Paper Thumbnail" width="500" style="max-height: 90%; vertical-align: middle;">
@@ -227,10 +227,6 @@ Platform
 </p>
 
 
-
-
-
-      
 
 Miscellaneous 
 ------ 
