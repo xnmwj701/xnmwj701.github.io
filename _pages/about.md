@@ -221,10 +221,10 @@ Admission
 
 Platform 
 ------ 
-
-<td style="vertical-align: middle;">
-        <img src="/images/figure2.png" alt="Paper Thumbnail" width="500" style="max-height: 90%; vertical-align: middle;">
-      </td> 
+<p align="center">
+        <img src="/images/robotarm.jpg" alt="Paper Thumbnail" width="500" style="max-height: 90%; vertical-align: middle;">
+   <img src="/images/mobilerobot.jpg" alt="Paper Thumbnail" width="500" style="max-height: 90%; vertical-align: middle;">
+</p>
 
 
 
