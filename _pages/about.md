@@ -212,7 +212,7 @@ Admission
     <li> <strong>基本要求：</strong><br> 
       - 具备 <em>机器人学习 / 深度学习 / 强化学习 / VLA / 世界模型 / 机器人硬件平台搭建 </em> 等相关背景（理论+应用），或应用数学、非线性控制理论功底深厚（纯理论）<br> 
       - 熟悉 <em>AIGC 前沿算法或开源工具</em>，熟练使用 <code>Python</code>、<code>PyTorch</code>、<code>Matlab</code> 、<code>C/C++</code>等（仅适用于“理论+应用”）<br> 
-      - 具备发表高水平论文或承担企业级科研项目的能力<br> 
+      - 具备发表高水平论文或承担/参与企业级科研项目的能力<br> 
       - 为人诚信严谨，善于协作，严格遵守学术道德规范 
     </li> 
   </ol> 
@@ -240,7 +240,7 @@ Miscellaneous
     - 推荐国/境外读博、博后机会 <br> 
     - 国/境外高水平研究团队联合培养 
   </li> 
-    <li style="margin-bottom: 12px;"> <strong>科研助理/实习附加要求：</strong><br>   - <strong> 短期（科研实习）：</strong>  周期不超过 6 个月；<strong> 中长期（科研助理）：</strong> 通常周期为6–12个月（有试用期），表现优秀者可经协商续约
+    <li style="margin-bottom: 12px;"> <strong>科研助理/实习附加要求：</strong><br>   - <strong> 短期（科研实习）：</strong>  周期6-12个月；<strong> 中长期（科研助理）：</strong> 周期通常为12个月以上，表现优秀者可经协商续约
     </li> 
     <li> <strong>团队最新研究进展：</strong><br> 
        - 点击查看（英文，需能访问Google）：<a href="https://sites.google.com/site/wenjiewind" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Site]</a>
