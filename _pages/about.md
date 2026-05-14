@@ -140,6 +140,27 @@ Recent Works
 </div>
 
 
+Recent News
+------  
+<div align="justify" style="line-height:1.7; font-family: Arial, sans-serif; font-size: 15px; color:#333;"> 
+  <ul style="padding-left: 18px; list-style-type: disc;"> 
+    <li style="margin-bottom: 12px;"> 
+      2026.5: 获得机器学习顶会ICML 2026 Gold Reviewer Award; 
+    </li> 
+    <li style="margin-bottom: 12px;"> 
+      2026.5: 论文“Robust Path Tracking for Vehicles via Continuous-Time Residual Learning: An ICODE-MPPI Approach”已被12th 2026 International Conference on Control, Decision and Information Technologies (CoDIT 2026)接收; 
+    </li> 
+    <li style="margin-bottom: 12px;"> 
+      2026.4: 论文“A Posteriori Second-Order Guarantees for Bolza Problems via Collocation”已被IEEE Control Systems Letters接收;   
+    </li> 
+    <li style="margin-bottom: 12px;"> 
+      2025.11: 获得2025年浙江大学“AI+Robotics学科交叉与产业赋能”全国博士生论坛暨环太湖高端论坛 最佳海报奖 
+    </li> 
+  </ul> 
+</div>
+
+
+
 Former Team Members
 ------
 <table>
