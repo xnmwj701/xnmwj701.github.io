@@ -161,7 +161,7 @@ Recent News
 
 
 
-Former Team Members
+Current Members & Alumni
 ------
 <table>
   <thead>
