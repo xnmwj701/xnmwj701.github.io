@@ -145,6 +145,8 @@ Recent News
 <div align="justify" style="line-height:1.7; font-family: Arial, sans-serif; font-size: 15px; color:#333;"> 
   <ul style="padding-left: 18px; list-style-type: disc;"> 
     <li style="margin-bottom: 12px;"> 
+       2026.5: 缴纳中国自动化学会会费，成为终身会员 :)
+    <li style="margin-bottom: 12px;"> 
       2026.5: 获得机器学习顶会ICML 2026 Gold Reviewer Award; 
     </li> 
     <li style="margin-bottom: 12px;"> 
