@@ -146,6 +146,7 @@ Recent News
   <ul style="padding-left: 18px; list-style-type: disc;"> 
     <li style="margin-bottom: 12px;"> 
        2026.5: 缴纳中国自动化学会会费，成为终身会员 :)
+    </li>
     <li style="margin-bottom: 12px;"> 
       2026.5: 获得机器学习顶会ICML 2026 Gold Reviewer Award; 
     </li> 
