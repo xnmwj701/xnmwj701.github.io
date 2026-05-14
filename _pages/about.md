@@ -214,7 +214,7 @@ Current Members & Alumni
       <td>宋**</td>
       <td>硕士生</td>
       <td>2024至今</td>
-      <td> </td>
+      <td> 1篇 CoDIT 2026 </td>
       <td>东南大学，硕士生 </td>
       <td>基于连续时间神经网络的路径规划及其在机器人和自动驾驶汽车中的应用</td>
     </tr>
