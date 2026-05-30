@@ -267,7 +267,7 @@ Miscellaneous
     - 推荐国/境外读博、博后机会 <br> 
     - 国/境外高水平研究团队联合培养 
   </li> 
-    <li style="margin-bottom: 12px;"> <strong>科研助理/实习附加要求：</strong><br>   - <strong> 短期（科研实习）：</strong>  周期6-12个月；<strong> 中长期（科研助理）：</strong> 周期通常为12个月以上，表现优秀者可经协商续约
+    <li style="margin-bottom: 12px;"> <strong>科研助理/实习附加要求：</strong><br>   - <strong> 短期（科研实习）：</strong>  周期通常为6-12个月（暑期实习可2-3个月）；<strong> 中长期（科研助理）：</strong> 周期通常为12个月以上，表现优秀者可经协商续约
     </li> 
     <li> <strong>团队最新研究进展：</strong><br> 
        - 点击查看（英文，需能访问Google）：<a href="https://sites.google.com/site/wenjiewind" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Site]</a>
