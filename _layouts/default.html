@@ -11,10 +11,11 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="modern-site{% if page.body_class %} {{ page.body_class }}{% endif %}">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+    <script src="{{ '/assets/js/metric-like.js' | relative_url }}?v=2"></script>
 
     {{ content }}
 

@@ -1,0 +1,10 @@
+campus_gallery:
+  - image: /images/campus1.png
+    alt: Aerial view of Nanjing University Suzhou Campus
+    position: center 20%
+  - image: /images/campus2.png
+    alt: Academic buildings at Nanjing University Suzhou Campus
+    position: center 25%
+  - image: /images/campus3.png
+    alt: Campus building beside a pond at Nanjing University Suzhou Campus
+    position: center 40%

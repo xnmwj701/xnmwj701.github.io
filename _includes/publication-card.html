@@ -1,0 +1,48 @@
+{% assign pub = include.publication %}
+
+<article class="publication-card">
+  <div class="publication-card__inner">
+    {% if pub.image %}
+      <a class="publication-card__media" href="{{ pub.image | relative_url }}" target="_blank" rel="noopener" data-publication-image aria-haspopup="dialog" aria-label="Preview figure for {{ pub.title | escape }}">
+        <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}" loading="lazy">
+      </a>
+    {% endif %}
+
+    <div class="publication-card__body">
+      {% if pub.badges %}
+        <div class="publication-card__badges" aria-label="Publication tags">
+          {% for badge in pub.badges %}
+            <span class="publication-badge{% if badge contains 'Spotlight' or badge contains 'Best' %} publication-badge--award{% endif %}">{{ badge }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      <h3 class="publication-card__title">{{ pub.title }}</h3>
+      <p class="publication-card__authors">{% include publication-authors.html publication=pub %}</p>
+      <p class="publication-card__venue">
+        {{ pub.venue }}{% if pub.year %}, {{ pub.year }}{% endif %}{% if pub.volume %}, {{ pub.volume }}{% if pub.issue %}({{ pub.issue }}){% endif %}{% endif %}{% if pub.pages %}: {{ pub.pages }}{% endif %}
+      </p>
+
+      {% if pub.note %}
+        <p class="publication-card__note">{{ pub.note }}</p>
+      {% endif %}
+
+      {% if pub.summary %}
+        <ul class="publication-card__summary">
+          <li>{{ pub.summary }}</li>
+        </ul>
+      {% endif %}
+
+      <div class="publication-links">
+        {% if pub.doi %}
+          <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>
+        {% endif %}
+        {% if pub.links %}
+          {% for link in pub.links %}
+            <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+          {% endfor %}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</article>

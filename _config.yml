@@ -9,22 +9,28 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : # "梅文杰"
+title                    : "METRIC Lab | Nanjing University"
 title_separator          : # "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Wenjie Mei"
+description              : &description "Assistant Professor, School of Robotics and Automation, Nanjing University"
+url                      : "https://xnmwj701.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "xnmwj701/xnmwj701.github.io"
+
+lab:
+  name: "METRIC Lab"
+  full_name: "Modeling, Evolution, Trajectory Planning, Robotics, Integration, and Control"
+  mission: "We develop principled models and methods to measure, understand, predict, and shape the evolution of complex dynamical and robotic systems."
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar : "profile1"
-  name : "梅文杰"
-  bio : 
-  location : "Suzhou"
+  avatar : "profile.jpg"
+  name : "Wenjie Mei"
+  name_en : "Wenjie Mei"
+  bio : "Assistant Professor, Nanjing University"
+  location : "Suzhou, China"
   employer : "Nanjing University"
   uri :
   email : "mei.wenjie@nju.edu.cn"
@@ -32,7 +38,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=1P8cYogAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=1P8cYogAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Wenjie-Mei-2"
   inspire-hep      : # URL
   impactstory      : # URL
@@ -119,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # keep the footer free of subscription links
   path                   : # blank (default) uses feed.xml
 
 
@@ -143,7 +149,7 @@ og_description           :  # Social media default site image description
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : "Wenjie Mei"
   links: # An array of links to social media profiles
 
 

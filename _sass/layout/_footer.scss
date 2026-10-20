@@ -4,8 +4,8 @@
 
 .page__footer {
   @include clearfix;
-  background-color: var(--global-footer-bg-color);
-  color: var(--global-text-color-light);
+  background-color: #f7f9fb;
+  color: #6b7788;
 
   float: left;
   margin-left: 0;
@@ -19,21 +19,21 @@
   height: auto;
   /* sticky footer fix end */
 
-  margin-top: 3em;
+  margin-top: 2.4rem;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  border-top: 1px solid var(--global-dark-border-color);
+  border-top: 1px solid #e8edf1;
 
   footer {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1em;
+    margin-top: 0;
     max-width: 100%;
-    padding: 0 1em 1em;
+    padding: 0.9rem 1rem 1rem;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -59,38 +59,17 @@
 
 .page__footer-copyright {
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-size: 13px;
+  line-height: 1.5;
+  text-align: center;
 }
 
-.page__footer-follow {
-  ul {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-  }
+.page__footer-credit {
+  display: inline-block;
+  margin-left: 0.28rem;
+  white-space: nowrap;
+}
 
-  li {
-    display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
-    text-transform: uppercase;
-  }
-
-  li + li:before {
-    content: "";
-    padding-right: 5px;
-  }
-
-  a {
-    padding-right: 10px;
-    font-weight: bold;
-  }
-
-  .social-icons {
-    a {
-      white-space: nowrap;
-    }
-  }
+.page__footer-separator {
+  color: #9aa6b2;
 }

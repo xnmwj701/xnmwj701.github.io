@@ -1,0 +1,54 @@
+- display_date: "2026.07"
+  icon: "🏆"
+  text: "Our paper \"Generalizable Neural Observer Design with Learned Riemannian Metrics for State Estimation\" received the NCAA 2026 Best Paper Award."
+  source: "https://aaci.org.hk/ncaa2026/program/awards/"
+
+- display_date: "2026.05"
+  icon: "🎉"
+  text: "Our paper \"Learning and Current Prediction of PMSM Drive via Differential Neural Networks\" was named an ESI Highly Cited Paper."
+
+- display_date: "2026.05"
+  icon: "🏅"
+  text: "Received the ICML 2026 Gold Reviewer Award."
+
+- display_date: "2026.05"
+  icon: "🎉"
+  text: "Became a lifetime member of the Chinese Association of Automation."
+
+- display_date: "2026.05"
+  icon: "📝"
+  text: "Our paper \"Robust Path Tracking for Vehicles via Continuous-Time Residual Learning: An ICODE-MPPI Approach\" was accepted by CoDIT 2026."
+  source: "https://doi.org/10.1109/CODIT70676.2026.11631133"
+
+- display_date: "2026.04"
+  icon: "📝"
+  text: "Our paper \"A Posteriori Second-Order Guarantees for Bolza Problems via Collocation\" was accepted by IEEE Control Systems Letters."
+  source: "https://doi.org/10.1109/LCSYS.2026.3683089"
+
+- display_date: "2026.07"
+  icon: "🏆"
+  text: "Our paper \"Contracting Learning-Based Observer for UAV State Estimation Subject to Disturbances\" received the ICAC 2026 Best Conference Paper Award."
+
+- display_date: "2026.08"
+  icon: "🏆"
+  text: "Our team project was named an Outstanding Team in the Jiangsu division of the 14th Entrepreneurship Jiangsu Science and Technology Entrepreneurship Competition and the 15th China Innovation and Entrepreneurship Competition."
+
+# - display_date: "2025.11"
+#   icon: "🏅"
+#   text: "Received the Best Poster Award at Zhejiang University's 2025 national doctoral forum on AI, robotics, interdisciplinary research, and industrial innovation."
+
+# - display_date: "2025"
+#   icon: "🎉"
+#   text: "Selected for the Zhejiang Provincial High-Level Talent Recruitment Program (Young Talent)."
+
+# - display_date: "2021"
+#   icon: "🏅"
+#   text: "Received the Inria hackAtech Scientists Challenge Prize."
+
+# - display_date: "2019"
+#   icon: "🏅"
+#   text: "Received the IET Outstanding Reviewer Award."
+
+# - display_date: "2018"
+#   icon: "🏅"
+#   text: "Received the IET Outstanding Reviewer Award."
