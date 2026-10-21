@@ -16,7 +16,7 @@ redirect_from:
 <section class="biography-intro page-section">
   <div class="biography-intro__copy">
     <p class="lead">
-     I am Wenjie Mei, Assistant Professor, Distinguished Research Fellow, and Doctoral Supervisor at the School of Robotics and Automation, Nanjing University - Suzhou Campus.
+     I am Wenjie Mei, Assistant Professor and Specially Appointed Researcher at the School of Robotics and Automation, Nanjing University - Suzhou Campus.
     </p>
     <p>
       My research primarily focuses on the modeling, analysis, and control of complex systems, as well as the interdisciplinary integration of artificial intelligence and robotics. I am dedicated to exploring learning, intelligent prediction, and control for real-world dynamic systems. Current application scenarios of interest include, but are not limited to, robot motion planning and control, latent space world models, and learning-based modeling and prediction for power/motor systems.
@@ -74,6 +74,6 @@ redirect_from:
     <li><strong>2019</strong><span>IET Outstanding Reviewer Award</span></li>
     <li><strong>2018</strong><span>IET Outstanding Reviewer Award</span></li>
   </ul> -->
-  I serve as a young editorial board member for several international journals and as a program/scientific committee member for several international conferences. I also served on the Program Committee of the 3rd TCCT Workshop on Nonlinear Systems and Control, Chinese Association of Automation. I have been a long-term reviewer for more than 20 leading journals and conferences in machine learning and control, including NeurIPS, ICML, IEEE Transactions on Automatic Control, Automatica, SIAM Journal on Control and Optimization, IEEE CDC, and ACC.
+  I serve as a young editorial board member for several international journals and as a program/scientific committee member for several international conferences. I also served on the Program Committee of the 3rd TCCT Workshop on Nonlinear Systems and Control, Chinese Association of Automation. I have been a reviewer for leading journals and conferences in machine learning and control, including NeurIPS, ICML, IEEE Transactions on Automatic Control, Automatica, SIAM Journal on Control and Optimization, IEEE CDC, and ACC.
 
 </section>
