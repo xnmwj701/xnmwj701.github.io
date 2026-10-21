@@ -12,10 +12,6 @@
   text: "Received the ICML 2026 Gold Reviewer Award."
 
 - display_date: "2026.05"
-  icon: "🎉"
-  text: "Became a lifetime member of the Chinese Association of Automation."
-
-- display_date: "2026.05"
   icon: "📝"
   text: "Our paper \"Robust Path Tracking for Vehicles via Continuous-Time Residual Learning: An ICODE-MPPI Approach\" was accepted by CoDIT 2026."
   source: "https://doi.org/10.1109/CODIT70676.2026.11631133"
