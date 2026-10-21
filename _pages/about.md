@@ -1,280 +1,98 @@
 ---
+layout: modern
 permalink: /
-title: "Short Bio"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: false
+page_class: home-page
 ---
 
-
-
-<div align="justify">
-<p style="font-size:16px;">
-2025年至今，担任南京大学苏州校区机器人与自动化学院 助理教授、特聘研究员、博士生导师；<br>
-2024年-2025年，担任东南大学讲师，并于此期间多次赴日本广岛大学进行学术访问；<br>
-2023年-2024年, 在美国范德堡大学从事博士后研究工作；<br>
-2019年-2022年，在法国国家信息与自动化研究所（里尔-北欧中心）开展研究工作，并于2022年取得法国里尔大学计算机、自动化博士学位。
-</p>
-</div>
-
-
-Research Interests
-------
-<div align="justify">
-<p style="font-size:16px;">
-主要聚焦于复杂系统的建模分析与控制（如数据驱动方法、几何控制、系统安全性等）、人工智能、机器人技术等领域的交叉融合，探索面向实际动态系统的学习、智能预测与控制等问题。主要应用场景包括但不限于机器人运动规划与控制、潜空间世界模型、流形学习、电力/电机系统的学习建模与预测等。
-</p>
-</div>
-
-
-
-
-Recent Works
-------
-<table>
-  <thead>
-    <tr>
-      <th>论文缩略图</th>
-      <th>论文细节 </th>
-      <th>链接</th>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td style="vertical-align: middle;">
-        <img src="/images/figure_nips2025.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
-      </td> 
-      <td>
-           Dongzhe Zheng, Wenjie Mei* <br>
-        <strong> Memory-Augmented Potential Field Theory: A Framework for Adaptive Control in Non-Convex Domains </strong><br>
-        <em style="color:blue;"> Advances in Neural Information Processing Systems (NeurIPS) </em>, 2025
-      </td>
-      <td>
-         <a href="https://arxiv.org/abs/2509.19672" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
-        <a href="https://anonymous.4open.science/r/MA_MPPI-6555" target="_blank" style="color:#1a73e8; text-decoration:underline;">💻 Code</a> <br>
-        <a href="files/bibtex2.bib" download>📑 BibTeX</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="vertical-align: middle;">
-        <img src="/images/figure1.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
-      </td>
-      <td>
-        Dongzhe Zheng, Wenjie Mei* <br>
-        <strong> Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures </strong><br>
-       <em style="color:blue;">International Conference on Machine Learning (ICML) </em>, 2025. <span style="color:#FF8C00; font-weight:bold;">Spotlight*</span>
-      </td>
-      <td>
-       <a href="https://arxiv.org/pdf/2505.19521" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
-       <a href="https://github.com/ContinuumCoder/Measurement-Induced-Bundle-for-Learning-Dynamics/" target="_blank" style="color:#1a73e8; text-decoration:underline;">💻 Code</a> <br>
-       <a href="files/bibtex1.bib" download>
-         <span style="white-space:nowrap;">📑 BibTeX</span>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="vertical-align: middle;">
-        <img src="/images/figure2.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
-      </td> 
-      <td>
-          Wenjie Mei, Dongzhe Zheng, Shihua Li<br>
-        <strong> Controlsynth neural ODEs: Modeling dynamical systems with guaranteed convergence </strong><br>
-        <em style="color:blue;"> Advances in Neural Information Processing Systems (NeurIPS) </em>, 2024
-      </td>
-      <td>
-         <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/b3b0ea507520e3db70f7219b59fd5fd9-Abstract-Conference.html" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
-        <a href="https://github.com/ContinuumCoder/ControlSynth-Neural-ODE" target="_blank" style="color:#1a73e8; text-decoration:underline;">💻 Code</a> <br>
-        <a href="files/bibtex2.bib" download>📑 BibTeX</a>
-      </td>
-    </tr>
-     <tr>
-       <td style="vertical-align: middle;">
-        <img src="/images/figure3.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
-      </td>
-      <td>
-          Wenjie Mei, Denis Efimov, Rosane Ushirobira, Emilia Fridman <br>
-        <strong> On delay-dependent conditions of ISS for generalized Persidskii systems </strong><br>
-        <em style="color:blue;"> IEEE Transactions on Automatic Control </em>, 2023
-      </td>
-      <td>
-        <a href="https://inria.hal.science/hal-03749191/file/journal_time_delay_Pers_systems.pdf" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
-        <a href="files/bibtex3.bib" download>📑 BibTeX</a>
-      </td>
-    </tr>
-     <tr>
-       <td style="vertical-align: middle;">
-        <img src="/images/figure4.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
-      </td>
-      <td>
-          Wenjie Mei, Denis Efimov, Rosane Ushirobira <br>
-        <strong> On input-to-output stability and robust synchronization of generalized Persidskii systems </strong><br>
-        <em style="color:blue;"> IEEE Transactions on Automatic Control </em>, 2021
-      </td>
-      <td>
-        <a href="https://inria.hal.science/hal-03384183/document" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
-        <a href="files/bibtex4.bib" download>📑 BibTeX</a>
-      </td>
-    </tr>
-     <tr>
-       <td style="vertical-align: middle;">
-        <img src="/images/figure5.png" alt="Paper Thumbnail" width="120" style="max-height: 90%; vertical-align: middle;">
-      </td>
-      <td>
-          Wenjie Mei, Rosane Ushirobira, Denis Efimov  <br>
-        <strong> On nonlinear robust state estimation for generalized Persidskii systems </strong><br>
-        <em style="color:blue;"> Automatica </em>, 2022
-      </td>
-      <td>
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0005109822002643" target="_blank" style="color:#1a73e8; text-decoration:underline;">📄 Paper</a> <br>
-        <a href="files/bibtex5.bib" download>📑 BibTeX</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<div align="justify">
-<p style="font-size:15px;">
-近年以第一/通讯作者在IEEE Trans. Automatic Control、Automatica、NeurIPS、ICML等机器学习、自动化等领域的高水平期刊/会议发表论文20余篇，包括1篇入选ICML 2025 Spotlight论文（全球12,107篇投稿论文的前2.6%）。 <span style="color:#d9534f; font-weight: 500;"> 更多研究工作，点击 <a href="https://scholar.google.com/citations?user=1P8cYogAAAAJ&hl=zh-CN" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Scholar]</a>  </span>
-</p>
-</div>
-
-
-Recent News
-------  
-<div align="justify" style="line-height:1.7; font-family: Arial, sans-serif; font-size: 15px; color:#333;"> 
-  <ul style="padding-left: 18px; list-style-type: disc;"> 
-    <li style="margin-bottom: 12px;"> 
-       2026.5: 论文“Learning and Current Prediction of PMSM Drive via Differential Neural Networks”入选ESI高被引; 
-    </li>
-    <li style="margin-bottom: 12px;"> 
-       2026.5: 缴纳中国自动化学会会费，成为终身会员 :)
-    </li>
-    <li style="margin-bottom: 12px;"> 
-      2026.5: 获得机器学习顶会ICML 2026 Gold Reviewer Award; 
-    </li> 
-    <li style="margin-bottom: 12px;"> 
-      2026.5: 论文“Robust Path Tracking for Vehicles via Continuous-Time Residual Learning: An ICODE-MPPI Approach”已被12th 2026 International Conference on Control, Decision and Information Technologies (CoDIT 2026)接收; 
-    </li> 
-    <li style="margin-bottom: 12px;"> 
-      2026.4: 论文“A Posteriori Second-Order Guarantees for Bolza Problems via Collocation”已被IEEE Control Systems Letters接收;   
-    </li> 
-    <li style="margin-bottom: 12px;"> 
-      2025.11: 获得2025年浙江大学“AI+Robotics学科交叉与产业赋能”全国博士生论坛暨环太湖高端论坛 最佳海报奖 
-    </li> 
-  </ul> 
-</div>
-
-
-
-Current Members & Alumni
-------
-<table>
-  <thead>
-    <tr>
-      <th>姓名</th>
-      <th>身份</th>
-      <th>时间</th>
-      <th>论文成果</th>
-      <th>去向/现状</th>
-      <th>研究方向</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>郑**</td>
-      <td>科研助理（远程）</td>
-      <td>2024至今</td>
-      <td>2篇 NeurIPS、1篇 ICML Spotlight、1篇 JFI、1篇 L-CSS </td>
-      <td> 美国普林斯顿大学，博士生</td>
-      <td>神经ODE动态系统建模与稳定性保证、基于强化学习的受限系统优化、基于纤维束结构的几何控制</td>
-    </tr>
-    <tr>
-      <td>余*</td>
-      <td>博士生（共同指导）</td>
-      <td>2024至2025</td>
-      <td>1篇 IEEE TCAS II、1篇 IEEE T-ASE、1篇 ICCAR 2025</td>
-      <td>新加坡国立大学，联合培养博士生 </td>
-      <td>非线性系统识别、无传感器控制、模型预测控制及在运动驱动系统中的应用</td>
-    </tr>
-    <tr>
-      <td>李**</td>
-      <td>博士生（副导师）</td>
-      <td>2024至2025</td>
-      <td>1篇 IEEE T-ASE、1篇 IROS 2025</td>
-      <td>北京中关村学院（31所双一流高校共建），联合培养博士生 </td>
-      <td>基于控制理论和深度学习的系统识别及其在电力系统和机器人动力学中的应用</td>
-    </tr>
-    <tr>
-      <td>王**</td>
-      <td>硕士生（共同指导）</td>
-      <td>2024至今</td>
-      <td>1篇 IEEE TCAS II、1篇 ICCAR 2025</td>
-      <td>兰州理工大学，硕士生 </td>
-      <td>各类连续时间神经网络及其在机电系统中的应用</td>
-    </tr>
-    <tr>
-      <td>宋**</td>
-      <td>硕士生</td>
-      <td>2024至今</td>
-      <td> 1篇 CoDIT 2026 </td>
-      <td>东南大学，硕士生 </td>
-      <td>基于连续时间神经网络的路径规划及其在机器人和自动驾驶汽车中的应用</td>
-    </tr>
-  </tbody>
-</table>
-
-
-Admission 
------- 
-<div align="justify" style="line-height:1.7; font-family: Arial, sans-serif; font-size: 15px; color:#333;"> 
-  <ol style="padding-left: 18px;"> 
-  <li style="margin-bottom: 12px;"> 
-    热烈欢迎有较强科研探索兴趣和自我驱动力的 <strong>考研/保研学生、博士研究生申请人、科研助理/实习生，以及想提前进入实验室的本科生 </strong> 来信联系 （<strong style="color:#1a73e8;">邮箱：<a href="mailto:mei.wenjie@nju.edu.cn" style="color:#1a73e8; text-decoration:none;">mei.wenjie@nju.edu.cn</a></strong></a></strong>）， 一起开拓新边界！
-    请在邮件中附上简历并做简要自我介绍。 
-    <span style="color:#d9534f; font-weight: 500;">具有Top国际期刊/会议论文、高水平机器人或编程竞赛获奖经历，或具备多年企业科研项目经验者将优先考虑。</span> 
-  </li> 
-    <li style="margin-bottom: 12px;"> <strong>培养模式：</strong> 提供全流程科研指导 （<em>研究思路设计、理论推导、实验方案建议、论文撰写与修改等 </em>）。 日常管理宽松，但学术要求严格，注重培养独立思考与创新能力。 
-    </li> 
-    <li> <strong>基本要求：</strong><br> 
-      - 具备 <em>机器人学习 / 深度学习 / 强化学习 / VLA / 世界模型 / 机器人硬件平台搭建 </em> 等相关背景（理论+应用），或应用数学、非线性控制理论功底深厚（纯理论）<br> 
-      - 熟悉 <em>AIGC 前沿算法或开源工具</em>，熟练使用 <code>Python</code>、<code>PyTorch</code>、<code>Matlab</code> 、<code>C/C++</code>等（仅适用于“理论+应用”）<br> 
-      - 具备发表高水平论文或承担/参与企业级科研项目的能力<br> 
-      - 为人诚信严谨，善于协作，严格遵守学术道德规范 
-    </li> 
-  </ol> 
-</div>
-
-
-Laboratory Hardware Platform 
------- 
-<div style="text-align: center;">
-  <div style="display: inline-flex; gap: 10px;">
-    <img src="/images/robotarm.jpg" width="380">
-    <img src="/images/mobilerobot.jpg" width="380">
+{% assign campus_images = site.data.home.campus_gallery %}
+<section class="home-hero" aria-labelledby="home-title">
+  <div class="campus-carousel{% if campus_images.size < 2 %} has-single-slide{% endif %}" data-carousel data-carousel-label="Campus image" data-carousel-autoplay="true" role="region" aria-label="Campus gallery" tabindex="0">
+    <div class="home-hero__media campus-carousel__viewport">
+      {% for campus_image in campus_images %}
+        <figure class="campus-carousel__slide{% if forloop.first %} is-active{% endif %}" data-carousel-slide aria-hidden="{% if forloop.first %}false{% else %}true{% endif %}" style="--campus-object-position: {{ campus_image.position | default: 'center center' }};">
+          <img src="{{ campus_image.image | relative_url }}" alt="{{ campus_image.alt | escape }}" {% unless forloop.first %}loading="lazy"{% endunless %}>
+        </figure>
+      {% endfor %}
+      <div class="home-hero__shade" aria-hidden="true"></div>
+      <div class="home-hero__copy">
+        <h1 id="home-title">{{ site.lab.name }}</h1>
+        <p class="home-hero__full-name">{{ site.lab.full_name }}</p>
+        <p class="home-hero__statement">{{ site.lab.mission }}</p>
+      </div>
+    </div>
+    <div class="campus-carousel__controls">
+      <button class="campus-carousel__arrow" type="button" data-carousel-prev aria-label="Previous campus image" title="Previous campus image"><i class="fas fa-chevron-left" aria-hidden="true"></i></button>
+      <div class="campus-carousel__dots" aria-label="Choose a campus image">
+        {% for campus_image in campus_images %}
+          <button class="campus-carousel__dot{% if forloop.first %} is-active{% endif %}" type="button" data-carousel-dot data-carousel-index="{{ forloop.index0 }}" aria-label="Go to campus image {{ forloop.index }}" aria-current="{% if forloop.first %}true{% else %}false{% endif %}"></button>
+        {% endfor %}
+      </div>
+      <button class="campus-carousel__arrow" type="button" data-carousel-next aria-label="Next campus image" title="Next campus image"><i class="fas fa-chevron-right" aria-hidden="true"></i></button>
+    </div>
+    <p class="screen-reader-text" data-carousel-status aria-live="polite">Campus image 1 of {{ campus_images.size }}</p>
   </div>
-</div>
+</section>
 
+<section class="home-themes" aria-labelledby="themes-title">
+  <div class="section-heading"><h2 id="themes-title">Research Themes</h2></div>
+  <div class="home-themes__grid">
+    <article class="home-theme"><i class="fas fa-project-diagram" aria-hidden="true"></i><h3>Modeling</h3><p>Learning-based and principled models for complex dynamical systems.</p></article>
+    <article class="home-theme"><i class="fas fa-chart-line" aria-hidden="true"></i><h3>Evolution</h3><p>Understanding and predicting how dynamical systems evolve over time.</p></article>
+    <article class="home-theme"><i class="fas fa-route" aria-hidden="true"></i><h3>Trajectory Planning</h3><p>Planning feasible and efficient motions for robotic systems.</p></article>
+    <article class="home-theme"><i class="fas fa-robot" aria-hidden="true"></i><h3>Robotics</h3><p>Learning, modeling, and control for real-world robotic systems.</p></article>
+    <article class="home-theme"><i class="fas fa-layer-group" aria-hidden="true"></i><h3>Integration</h3><p>Connecting modeling, prediction, planning, and control into unified systems.</p></article>
+    <article class="home-theme"><i class="fas fa-sliders-h" aria-hidden="true"></i><h3>Control</h3><p>Reliable control methods for complex dynamical and robotic systems.</p></article>
+  </div>
+</section>
 
+{% assign selected_publications = site.data.publications | where: "selected", true | sort: "selected_order" %}
+<section class="home-featured" aria-labelledby="featured-title">
+  <div class="section-heading">
+    <h2 id="featured-title">Selected Publications</h2>
+    <a class="text-link" href="{{ '/publications/' | relative_url }}">View all publications <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+  </div>
+  <div class="featured-carousel" data-carousel data-carousel-multi="true" data-carousel-label="Selected publication" role="region" aria-label="Selected publications carousel" tabindex="0">
+    <button class="featured-carousel__arrow" type="button" data-carousel-prev aria-label="Previous selected publications" title="Previous publications"><i class="fas fa-chevron-left" aria-hidden="true"></i></button>
+    <div class="featured-carousel__viewport">
+      {% for publication in selected_publications %}
+        <article class="home-work-card featured-carousel__slide" data-carousel-slide>
+          {% if publication.image %}
+            <a class="home-work-card__media" href="{{ publication.image | relative_url }}" data-publication-image aria-haspopup="dialog" aria-label="Preview figure for {{ publication.title | escape }}"><img src="{{ publication.image | relative_url }}" alt="Figure for {{ publication.title | escape }}" loading="lazy"></a>
+          {% endif %}
+          <div class="home-work-card__body">
+            <div class="home-work-card__badges"><span>{{ publication.venue }} · {{ publication.year }}</span>{% if publication.badges %}{% for badge in publication.badges limit: 1 %}<span>{{ badge }}</span>{% endfor %}{% endif %}</div>
+            <h3><a href="{{ '/publications/' | relative_url }}#publication-{{ publication.title | slugify }}">{{ publication.title }}</a></h3>
+            <p class="home-work-card__authors">{% include publication-authors.html publication=publication %}</p>
+            <div class="publication-links publication-links--compact">
+              {% if publication.doi %}<a href="https://doi.org/{{ publication.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
+              {% for link in publication.links %}<a href="{{ link.url | relative_url }}" {% if link.url contains '://' %}target="_blank" rel="noopener"{% endif %}>{{ link.label }}</a>{% endfor %}
+            </div>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+    <button class="featured-carousel__arrow" type="button" data-carousel-next aria-label="Next selected publications" title="Next publications"><i class="fas fa-chevron-right" aria-hidden="true"></i></button>
+    <p class="screen-reader-text" data-carousel-status aria-live="polite"></p>
+  </div>
+</section>
 
-Miscellaneous 
------- 
-<div align="justify" style="line-height:1.7; font-family: Arial, sans-serif; font-size: 15px; color:#333;"> 
-  <ol style="padding-left: 18px;"> 
-  <li style="margin-bottom: 12px;"> 
-     <strong>团队合作与支持：</strong><br>  本团队与法国 Inria、美国 Vanderbilt University、英国 UCL、日本立命馆大学、日本广岛大学等国际一流研究团队建立了长期合作关系，支持优秀科研助理/实习生、硕士生、博士生等发展：<br> 
-    - 发表高水平国际期刊和会议论文（如IEEE Transactions, NeurIPS, ICML等） <br> 
-    - 推荐国/境外读博、博后机会 <br> 
-    - 国/境外高水平研究团队联合培养 
-  </li> 
-    <li style="margin-bottom: 12px;"> <strong>科研助理/实习附加要求：</strong><br>   - <strong> 短期（科研实习）：</strong>  周期通常为6-12个月（暑期实习可2-3个月）；<strong> 中长期（科研助理）：</strong> 周期通常为12个月以上，表现优秀者可经协商续约
-    </li> 
-    <li> <strong>团队最新研究进展：</strong><br> 
-       - 点击查看（英文，需能访问Google）：<a href="https://sites.google.com/site/wenjiewind" target="_blank" style="color:#1a73e8; text-decoration:underline;">[Google Site]</a>
-    </li> 
-     <li> <strong>访问统计（2025.9起）：</strong><br> 
-      <a href="https://info.flagcounter.com/FqRa"><img src="https://s01.flagcounter.com/map/FqRa/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-    </li> 
-  </ol> 
-</div>
+<section id="news" class="home-news" aria-labelledby="news-title">
+  <div class="section-heading"><h2 id="news-title">Latest News</h2></div>
+  <div class="home-news__list">
+    {% assign news_groups = site.data.news | group_by: "display_date" | sort: "name" | reverse %}
+    {% for news_group in news_groups %}
+      {% for item in news_group.items %}
+        <article class="home-news__item">
+          <time>{{ item.display_date }}</time>
+          <span class="home-news__tag" aria-hidden="true">{{ item.icon }}</span>
+          <p>{{ item.text }}</p>
+          {% if item.source %}<a class="home-news__source" href="{{ item.source }}" target="_blank" rel="noopener" aria-label="Open news source" title="Open source"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>{% endif %}
+        </article>
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
 
+{% include publication-lightbox.html %}
+<script defer src="{{ '/assets/js/featured-carousel.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>

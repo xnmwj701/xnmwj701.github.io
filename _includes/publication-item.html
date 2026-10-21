@@ -1,0 +1,36 @@
+{% assign pub = include.publication %}
+
+<article class="publication-item" id="publication-{{ pub.title | slugify }}">
+  <div class="publication-item__inner">
+    {% if pub.image %}
+      <a class="publication-item__media" href="{{ pub.image | relative_url }}" data-publication-image aria-haspopup="dialog" aria-label="Preview figure for {{ pub.title | escape }}">
+        <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}" loading="lazy">
+      </a>
+    {% endif %}
+
+    <div class="publication-item__body">
+      <div class="publication-item__meta">
+        <span class="publication-item__category">{{ pub.category }}</span>
+        {% if pub.badges %}
+          {% for badge in pub.badges %}<span class="publication-badge{% if badge contains 'Spotlight' or badge contains 'Best' %} publication-badge--award{% endif %}">{{ badge }}</span>{% endfor %}
+        {% endif %}
+        {% if pub.note %}<span class="publication-item__note">{{ pub.note }}</span>{% endif %}
+      </div>
+
+      <h3 class="publication-item__title">{{ pub.title }}</h3>
+      <p class="publication-item__authors">{% include publication-authors.html publication=pub %}</p>
+      <p class="publication-item__venue">
+        {{ pub.venue }}{% if pub.year %}, {{ pub.year }}{% endif %}{% if pub.volume %}, {{ pub.volume }}{% if pub.issue %}({{ pub.issue }}){% endif %}{% endif %}{% if pub.pages %}: {{ pub.pages }}{% endif %}
+      </p>
+
+      {% if pub.summary %}<p class="publication-item__summary">{{ pub.summary }}</p>{% endif %}
+
+      <div class="publication-links publication-links--compact">
+        {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
+        {% if pub.links %}
+          {% for link in pub.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>{% endfor %}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</article>

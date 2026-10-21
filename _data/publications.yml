@@ -1,0 +1,420 @@
+- title: "Learning reduced-order dynamics with singularity via Latent-Augmented Neural Ordinary Differential Equations"
+  authors: "X. Wang, Y. Zhou, Wenjie Mei*, D. Zheng, Y. Bai, M. Nagahara"
+  venue: "Engineering Applications of Artificial Intelligence"
+  year: 2026
+  volume: "182"
+  pages: "116087"
+  doi: "10.1016/j.engappai.2026.116087"
+  category: "Journal"
+
+- title: "Non-Euclidean Contraction Design of Firing-Rate Neural Networks by DC Programming"
+  authors: "C. Zhao, S. Ueno, Wenjie Mei, Y. Zheng, C. Gao"
+  venue: "2026 IEEE 20th International Conference on Control & Automation (ICCA)"
+  year: 2026
+  pages: "87-92"
+  doi: "10.1109/ICCA69928.2026.11617973"
+  category: "Conference"
+
+- title: "Robust Path Tracking for Vehicles via Continuous-Time Residual Learning: An ICODE-MPPI Approach"
+  authors: "S. Song, Wenjie Mei*, C. Zhao"
+  venue: "12th International Conference on Control, Decision and Information Technologies (CoDIT)"
+  year: 2026
+  pages: "2454-2459"
+  doi: "10.1109/CODIT70676.2026.11631133"
+  category: "Conference"
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2605.03260"
+
+- title: "A Posteriori Second-Order Guarantees for Bolza Problems via Collocation"
+  authors: "D. Zheng, Wenjie Mei*"
+  venue: "IEEE Control Systems Letters"
+  year: 2026
+  volume: "10"
+  pages: "229-234"
+  doi: "10.1109/LCSYS.2026.3683089"
+  category: "Journal"
+
+- title: "A Full-Load Range Soft-Switching Method for Dual Active Bridge Converters Based on Differential Neural Network Current Prediction"
+  authors: "B. Ji, Wenjie Mei*, Z. Zhang, S. Ding, F. Hong"
+  venue: "IEEE Transactions on Power Electronics"
+  year: 2026
+  volume: "41"
+  issue: "8"
+  pages: "13088-13102"
+  doi: "10.1109/TPEL.2026.3674749"
+  category: "Journal"
+
+- title: "Discrete-Time Power Optimization in Wireless Communication Networks via DC Programming"
+  authors: "C. Zhao, S. Ueno, B. Zhu, Wenjie Mei*"
+  venue: "SICE International Symposium on Control Systems"
+  year: 2026
+  pages: "1-6"
+  doi: "10.23919/SICEISCS67856.2026.11524513"
+  category: "Conference"
+
+- title: "Contracting Learning-Based Observer for UAV State Estimation Subject to Disturbances"
+  authors: "Jialiang Fan, Chengyan Zhao, Yu Zhou, Wenjie Mei*"
+  venue: "International Conference on Automation and Computing (ICAC)"
+  year: 2026
+  category: "Conference"
+  note: "Best Conference Paper Award"
+
+- title: "Generalizable Neural Observer Design with Learned Riemannian Metrics for State Estimation"
+  authors: "Jialiang Fan, Wenjie Mei, Yu Zhou, Yang Bai, Chengyan Zhao"
+  venue: "Neural Computing for Advanced Applications (NCAA)"
+  year: 2026
+  category: "Conference"
+  note: "Best Paper Award"
+  links:
+    - label: "Award"
+      url: "https://aaci.org.hk/ncaa2026/program/awards/"
+
+- title: "Memory-Augmented Potential Field Theory: A Framework for Adaptive Control in Non-Convex Domains"
+  authors: "Dongzhe Zheng, Wenjie Mei*"
+  corresponding_authors:
+    - "Wenjie Mei"
+  venue: "Advances in Neural Information Processing Systems"
+  year: 2025
+  volume: "38"
+  pages: "113441-113480"
+  doi: "10.52202/085713-3424"
+  category: "Conference"
+  selected: true
+  selected_order: 1
+  image: "/images/figure_nips2025.png"
+  badges:
+    - "NeurIPS '25"
+    # - "Adaptive Control"
+  summary: "Propose a memory-augmented potential-field framework for adaptive control in non-convex domains."
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/2509.19672"
+    - label: "Code"
+      url: "https://anonymous.4open.science/r/MA_MPPI-6555"
+    - label: "BibTeX"
+      url: "/files/bibtex_nips2025.bib"
+
+- title: "Multiscale Cross-Modal Mapping for Radiographic Anomaly Segmentation with Text Prompt"
+  authors: "Y. Cui, D. Zheng, K. Yu, X. Zheng, X. Wang, X. Li, Y. Gu, L. Fu, X. Chen, Wenjie Mei*, et al."
+  venue: "arXiv preprint"
+  year: 2025
+  doi: "10.48550/arXiv.2512.14750"
+  category: "Preprint"
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2512.14750"
+
+- title: "Toward generic control for soft robotic systems"
+  authors: "Y. Sun, Y. Deng, Wenjie Mei, X. Xiong, Y. Bai, M. Ogura, Z. Zhou, M. Feroskhan, et al."
+  venue: "arXiv preprint"
+  year: 2025
+  doi: "10.48550/arXiv.2511.20226"
+  category: "Preprint"
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2511.20226"
+
+- title: "Unit Maintenance Scheduling Optimization Model for Power Distribution Systems Based on the Virtual Node Theory"
+  authors: "Y. Qiao, J. Lv, X. Guo, J. Jiang, Y. Wang, Wenjie Mei, K. Zhang"
+  venue: "2025 IEEE Power & Energy Society General Meeting / PowerCon"
+  year: 2025
+  pages: "1-6"
+  doi: "10.1109/POWERCON66300.2025.11294113"
+  category: "Conference"
+
+- title: "L1/L-infinity-Hankel Norm optimization of Positive Linear Systems Using Linear Programming"
+  authors: "C. Zhao, S. Ueno, B. Zhu, Wenjie Mei, Y. Sun"
+  venue: "11th International Conference on Control, Decision and Information Technologies (CoDIT)"
+  year: 2025
+  pages: "2952-2957"
+  doi: "10.1109/CODIT66093.2025.11321335"
+  category: "Conference"
+
+- title: "Power Control of Switched Wireless Cellular Networks Using Data-Driven Static K-Step Compressed Control"
+  authors: "C. Zhao, S. Ueno, B. Zhu, Wenjie Mei, Y. Zhou"
+  venue: "2025 IEEE International Conference on Control & Automation (ICCA)"
+  year: 2025
+  pages: "872-877"
+  doi: "10.1109/ICCA65672.2025.11129861"
+  category: "Conference"
+
+- title: "Learning Dynamics under Environmental Constraints via Measurement-Induced Bundle Structures"
+  authors: "Dongzhe Zheng, Wenjie Mei*"
+  corresponding_authors:
+    - "Wenjie Mei"
+  venue: "International Conference on Machine Learning"
+  year: 2025
+  category: "Conference"
+  selected: true
+  selected_order: 2
+  image: "/images/figure1.png"
+  badges:
+    - "ICML '25"
+    # - "Spotlight"
+  note: "Spotlight, top 2.6%"
+  summary: "Learn dynamics under environmental constraints through measurement-induced bundle structures."
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/pdf/2505.19521"
+    - label: "Code"
+      url: "https://github.com/ContinuumCoder/Measurement-Induced-Bundle-for-Learning-Dynamics/"
+    - label: "BibTeX"
+      url: "/files/bibtex1.bib"
+
+- title: "L1-Gain Optimization of a Class of Nonlinear Positive Systems by Linear Programming"
+  authors: "C. Zhao, Wenjie Mei, B. Zhu"
+  venue: "Chinese Control and Decision Conference (CCDC)"
+  year: 2025
+  pages: "6738-6743"
+  doi: "10.1109/CCDC65474.2025.11090902"
+  category: "Conference"
+
+- title: "Current Prediction of SPMSM Drives by Using Augmented ControlSynth Neural ODEs"
+  authors: "K. Yu, X. Wang, Wenjie Mei"
+  venue: "International Conference on Control, Automation and Robotics (ICCAR)"
+  year: 2025
+  pages: "405-410"
+  doi: "10.1109/ICCAR64901.2025.11072980"
+  category: "Conference"
+
+- title: "ICODE: Modeling Dynamical Systems with Extrinsic Input Information"
+  authors: "Z. Li, Wenjie Mei*, K. Yu, Y. Bai, S. Li"
+  venue: "IEEE Transactions on Automation Science and Engineering"
+  year: 2025
+  volume: "22"
+  pages: "14358-14370"
+  doi: "10.1109/TASE.2025.3560450"
+  category: "Journal"
+
+- title: "Learning and Current Prediction of PMSM Drive via Differential Neural Networks"
+  authors: "Wenjie Mei, X. Wang, Y. Lu, K. Yu, S. Li"
+  venue: "IEEE Transactions on Circuits and Systems II: Express Briefs"
+  year: 2025
+  volume: "72"
+  issue: "3"
+  pages: "489-493"
+  doi: "10.1109/TCSII.2025.3527024"
+  category: "Journal"
+  note: "ESI Highly Cited Paper"
+
+- title: "On input-to-state stability verification of identified models obtained by Koopman operator"
+  authors: "Wenjie Mei*, D. Zheng, Y. Zhou, A. Taha, C. Zhao"
+  venue: "Journal of the Franklin Institute"
+  year: 2025
+  volume: "362"
+  issue: "2"
+  pages: "107490"
+  doi: "10.1016/j.jfranklin.2024.107490"
+  category: "Journal"
+
+- title: "ControlSynth Neural ODEs: Modeling Dynamical Systems with Guaranteed Convergence"
+  authors: "Wenjie Mei*, Dongzhe Zheng, Shihua Li"
+  venue: "Advances in Neural Information Processing Systems"
+  year: 2024
+  volume: "37"
+  pages: "99232-99261"
+  doi: "10.52202/079017-3148"
+  category: "Conference"
+  selected: true
+  selected_order: 3
+  image: "/images/figure2.png"
+  badges:
+    - "NeurIPS '24"
+    # - "Neural ODE"
+  summary: "Model dynamical systems with guaranteed convergence using ControlSynth neural ODEs."
+  links:
+    - label: "Paper"
+      url: "https://proceedings.neurips.cc/paper_files/paper/2024/hash/b3b0ea507520e3db70f7219b59fd5fd9-Abstract-Conference.html"
+    - label: "Code"
+      url: "https://github.com/ContinuumCoder/ControlSynth-Neural-ODE"
+    - label: "BibTeX"
+      url: "/files/bibtex2.bib"
+
+- title: "On annular short-time stability conditions for nonlinear systems"
+  authors: "Wenjie Mei, Denis Efimov, Rosane Ushirobira"
+  venue: "International Journal of Control"
+  year: 2024
+  volume: "97"
+  issue: "9"
+  pages: "2084-2094"
+  doi: "10.1080/00207179.2023.2252534"
+  category: "Journal"
+
+- title: "On delay-dependent conditions of ISS for generalized Persidskii systems"
+  authors: "Wenjie Mei*, Denis Efimov, Rosane Ushirobira, Emilia Fridman"
+  venue: "IEEE Transactions on Automatic Control"
+  year: 2023
+  volume: "68"
+  issue: "7"
+  pages: "4225-4232"
+  doi: "10.1109/TAC.2022.3200972"
+  category: "Journal"
+  selected: true
+  selected_order: 4
+  image: "/images/figure3.png"
+  badges:
+    - "IEEE TAC"
+    - "ISS"
+  summary: "Establish local and global delay-dependent ISS and stabilization conditions for generalized Persidskii systems."
+  links:
+    - label: "Paper"
+      url: "https://inria.hal.science/hal-03749191/file/journal_time_delay_Pers_systems.pdf"
+    - label: "BibTeX"
+      url: "/files/bibtex3.bib"
+
+- title: "Annular short-time stability conditions for nonlinear systems"
+  authors: "Wenjie Mei, Denis Efimov, Rosane Ushirobira"
+  venue: "61st IEEE Conference on Decision and Control (CDC)"
+  year: 2022
+  pages: "6442-6447"
+  doi: "10.1109/CDC51059.2022.9993393"
+  category: "Conference"
+
+# - title: "Stability analysis, synchronization, and state observation of generalized Persidskii systems"
+#   authors: "Wenjie Mei"
+#   venue: "Université de Lille, PhD thesis"
+#   year: 2022
+#   category: "Thesis"
+
+- title: "On nonlinear robust state estimation for generalized Persidskii systems"
+  authors: "Wenjie Mei*, Rosane Ushirobira, Denis Efimov"
+  venue: "Automatica"
+  year: 2022
+  volume: "142"
+  pages: "110411"
+  doi: "10.1016/j.automatica.2022.110411"
+  category: "Journal"
+  selected: true
+  selected_order: 6
+  image: "/images/figure5.png"
+  badges:
+    - "Automatica"
+    - "Observer Design"
+  summary: "Design a robust state observer for generalized Persidskii systems with nonlinear measurements, disturbances, and output noise."
+  links:
+    - label: "Paper"
+      url: "https://www.sciencedirect.com/science/article/abs/pii/S0005109822002643"
+    - label: "BibTeX"
+      url: "/files/bibtex5.bib"
+
+- title: "On convergence conditions for generalized Persidskii systems"
+  authors: "Wenjie Mei, Denis Efimov, Rosane Ushirobira, A. Aleksandrov"
+  venue: "International Journal of Robust and Nonlinear Control"
+  year: 2022
+  volume: "32"
+  issue: "6"
+  pages: "3696-3713"
+  doi: "10.1002/rnc.5979"
+  category: "Journal"
+
+- title: "On short-time stability notions for nonlinear systems"
+  authors: "Wenjie Mei, Denis Efimov, Rosane Ushirobira"
+  venue: "arXiv preprint"
+  year: 2022
+  doi: "10.48550/arXiv.2204.07628"
+  category: "Preprint"
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2204.07628"
+
+- title: "Input-to-state stability of time-delay Persidskii systems"
+  authors: "Wenjie Mei, Denis Efimov, Rosane Ushirobira"
+  venue: "60th IEEE Conference on Decision and Control (CDC)"
+  year: 2021
+  pages: "5490-5495"
+  doi: "10.1109/CDC45484.2021.9683099"
+  category: "Conference"
+
+- title: "On input-to-output stability and robust synchronization of generalized Persidskii systems"
+  authors: "Wenjie Mei*, Denis Efimov, Rosane Ushirobira"
+  venue: "IEEE Transactions on Automatic Control"
+  year: 2022
+  volume: "67"
+  issue: "10"
+  pages: "5578-5585"
+  doi: "10.1109/TAC.2021.3123208"
+  category: "Journal"
+  selected: true
+  selected_order: 5
+  image: "/images/figure4.png"
+  badges:
+    - "IEEE TAC"
+    - "Synchronization"
+  summary: "Establish LMI-based input-to-output stability conditions and robust synchronization guarantees for generalized Persidskii systems."
+  links:
+    - label: "Paper"
+      url: "https://inria.hal.science/hal-03384183/document"
+    - label: "BibTeX"
+      url: "/files/bibtex4.bib"
+
+- title: "Convergence conditions for Persidskii systems"
+  authors: "Wenjie Mei, Denis Efimov, Rosane Ushirobira, A. Aleksandrov"
+  venue: "European Control Conference (ECC)"
+  year: 2021
+  pages: "1005-1010"
+  doi: "10.23919/ECC54610.2021.9655048"
+  category: "Conference"
+
+- title: "Towards state estimation of Persidskii systems"
+  authors: "Wenjie Mei, Denis Efimov, Rosane Ushirobira"
+  venue: "59th IEEE Conference on Decision and Control (CDC)"
+  year: 2020
+  pages: "2881-2886"
+  doi: "10.1109/CDC42340.2020.9303773"
+  category: "Conference"
+
+- title: "Mixed H2/H-infinity control of delayed Markov jump linear systems"
+  authors: "Wenjie Mei*, Chengyan Zhao, Masaki Ogura, Kenji Sugimoto"
+  venue: "IET Control Theory & Applications"
+  year: 2020
+  volume: "14"
+  issue: "15"
+  pages: "2076-2083"
+  doi: "10.1049/iet-cta.2019.1162"
+  category: "Journal"
+
+- title: "Feedback synchronization in Persidskii systems"
+  authors: "Wenjie Mei, Denis Efimov, Rosane Ushirobira"
+  venue: "IFAC-PapersOnLine"
+  year: 2020
+  volume: "53"
+  issue: "2"
+  pages: "2880-2884"
+  doi: "10.1016/j.ifacol.2020.12.959"
+  category: "Conference"
+
+- title: "Synergistic effects in networked epidemic spreading dynamics"
+  authors: "Masaki Ogura, Wenjie Mei, Kenji Sugimoto"
+  venue: "IEEE Transactions on Circuits and Systems II: Express Briefs"
+  year: 2020
+  volume: "67"
+  issue: "3"
+  pages: "496-500"
+  doi: "10.1109/TCSII.2019.2912794"
+  category: "Journal"
+
+- title: "Instability Analysis and Mixed H2/H-infinity Control for Markov Jump Linear Systems"
+  authors: "Wenjie Mei"
+  venue: "Nara Institute of Science and Technology, Master's thesis"
+  year: 2019
+  category: "Thesis"
+
+- title: "Kronecker weights for tractable modelling of spreading processes on multiplex networks"
+  authors: "Wenjie Mei*, Masaki Ogura"
+  venue: "IET Control Theory & Applications"
+  year: 2019
+  volume: "13"
+  issue: "3"
+  pages: "360-366"
+  doi: "10.1049/iet-cta.2018.5506"
+  category: "Journal"
+
+- title: "The optimal design method and standardized mathematical model of tooth profile modification of spur gear"
+  authors: "Wenjie Mei*, J. Na, F. Yang, G. Shen, J. Chen"
+  venue: "Mathematical Problems in Engineering"
+  year: 2016
+  volume: "2016"
+  pages: "6347987"
+  doi: "10.1155/2016/6347987"
+  category: "Journal"

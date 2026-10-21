@@ -1,36 +1,44 @@
 ---
-layout: archive
+layout: modern
 title: "Publications"
 permalink: /publications/
-author_profile: true
+page_class: publications-page
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<header class="page-header publications-header">
+  <h1>Publications</h1>
+  <p class="publications-subtitle">Selected papers, preprints, and conference publications.</p>
+  {% if site.author.googlescholar %}
+    <a class="publications-scholar-link" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar profile, opens in a new tab">
+      <i class="ai ai-google-scholar" aria-hidden="true"></i>
+      <span>Google Scholar profile</span>
+      <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+    </a>
+  {% endif %}
+</header>
 
-{% include base_path %}
+<p class="publication-author-legend">* Corresponding author</p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+{% assign publications = site.data.publications | sort: "year" | reverse %}
+{% assign current_year = "" %}
 
+{% for publication in publications %}
+  {% assign publication_year = publication.year | append: "" %}
 
+  {% if publication_year != current_year %}
+    {% unless forloop.first %}
+      </div>
+    {% endunless %}
+    <h2 class="publication-year">{{ publication.year }}</h2>
+    <div class="publication-list">
+    {% assign current_year = publication_year %}
+  {% endif %}
 
+  {% include publication-item.html publication=publication %}
+
+  {% if forloop.last %}
+    </div>
+  {% endif %}
+{% endfor %}
+
+{% include publication-lightbox.html %}
