@@ -53,22 +53,6 @@ redirect_from:
   </div>
 </section>
 
-<section class="page-section" aria-labelledby="funding-title">
-  <div class="section-heading"><h2 id="funding-title">Research Projects &amp; Funding</h2></div>
-  <div class="funding-list">
-    {% for project in site.data.projects %}
-      <article class="funding-item">
-        <time>{{ project.period }}</time>
-        <div>
-          <h3>{{ project.title }}</h3>
-          <p>{{ project.sponsor }}</p>
-        </div>
-        <span class="role-badge{% if project.role == 'Principal Investigator' %} role-badge--lead{% endif %}">{{ project.role }}</span>
-      </article>
-    {% endfor %}
-  </div>
-</section>
-
 <section id="teaching" class="page-section" aria-labelledby="teaching-title">
   <div class="section-heading"><h2 id="teaching-title">Teaching</h2></div>
   <div class="teaching-list">
