@@ -61,7 +61,7 @@
   note: "Best Conference Paper Award"
 
 - title: "Generalizable Neural Observer Design with Learned Riemannian Metrics for State Estimation"
-  authors: "Jialiang Fan, Wenjie Mei, Yu Zhou, Yang Bai, Chengyan Zhao"
+  authors: "Jialiang Fan, Wenjie Mei*, Yu Zhou, Yang Bai, Chengyan Zhao"
   venue: "Neural Computing for Advanced Applications (NCAA)"
   year: 2026
   category: "Conference"
