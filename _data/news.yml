@@ -1,3 +1,9 @@
+- display_date: "2026.10"
+  icon: "🎉"
+  text: "Our team received the National First Prize in the Simulation Technology Track of the 19th Advanced Robotics and Simulation Technology Competition."
+  source: "https://mp.weixin.qq.com/s/0KJHUY-5uKT1S6G-6eHbhw"
+
+
 - display_date: "2026.07"
   icon: "🏆"
   text: "Our paper \"Generalizable Neural Observer Design with Learned Riemannian Metrics for State Estimation\" received the NCAA 2026 Best Paper Award."
