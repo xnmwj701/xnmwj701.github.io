@@ -68,7 +68,7 @@ redirect_from:
 </section>
 
 <section class="page-section" aria-labelledby="service-title">
-  <div class="section-heading"><h2 id="service-title">Academic Service &amp; Recognition</h2></div>
+  <div class="section-heading"><h2 id="service-title">Academic Service </h2></div>
   <!-- <ul class="plain-list">
     <li><strong>ICML 2026</strong><span>Gold Reviewer Award</span></li>
     <li><strong>2019</strong><span>IET Outstanding Reviewer Award</span></li>
